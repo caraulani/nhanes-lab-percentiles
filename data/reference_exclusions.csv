@@ -1,0 +1,73 @@
+cycle,criterion,role,n_examined,n_assessable,n_flagged
+2011-2012,pregnant,default,9338,1167,57
+2011-2012,diabetes,default,9338,8955,852
+2011-2012,kidney,default,9338,7763,1339
+2011-2012,smoking_cotinine,default,9338,7378,1402
+2011-2012,anemia_treatment,default,9338,8955,280
+2011-2012,heart_or_stroke,default,9338,5318,550
+2011-2012,thyroid,default,9338,5318,495
+2011-2012,liver,default,9338,5318,211
+2011-2012,cancer,default,9338,5318,462
+2011-2012,obesity,sensitivity only,9338,8602,2470
+2011-2012,any default criterion,default,9338,9338,3587
+2011-2012,any default criterion or obesity,sensitivity only,9338,9338,4799
+2013-2014,pregnant,default,9813,1262,65
+2013-2014,diabetes,default,9813,9421,872
+2013-2014,kidney,default,9813,8192,1405
+2013-2014,smoking_cotinine,default,9813,8029,1609
+2013-2014,anemia_treatment,default,9813,9421,301
+2013-2014,heart_or_stroke,default,9813,5588,574
+2013-2014,thyroid,default,9813,5588,584
+2013-2014,liver,default,9813,5588,227
+2013-2014,cancer,default,9813,5588,530
+2013-2014,obesity,sensitivity only,9813,9055,2725
+2013-2014,any default criterion,default,9813,9813,3889
+2013-2014,any default criterion or obesity,sensitivity only,9813,9813,5215
+2015-2016,pregnant,default,9544,1240,70
+2015-2016,diabetes,default,9544,9165,974
+2015-2016,kidney,default,9544,8423,1329
+2015-2016,smoking_cotinine,default,9544,7666,1414
+2015-2016,anemia_treatment,default,9544,9165,271
+2015-2016,heart_or_stroke,default,9544,5474,598
+2015-2016,thyroid,default,9544,5474,594
+2015-2016,liver,default,9544,5474,248
+2015-2016,cancer,default,9544,5474,525
+2015-2016,obesity,sensitivity only,9544,8756,2843
+2015-2016,any default criterion,default,9544,9544,3704
+2015-2016,any default criterion or obesity,sensitivity only,9544,9544,5054
+2017-2018,pregnant,default,8704,1057,55
+2017-2018,diabetes,default,8704,8366,1045
+2017-2018,kidney,default,8704,7784,1302
+2017-2018,smoking_cotinine,default,8704,7101,1350
+2017-2018,anemia_treatment,default,8704,8366,325
+2017-2018,heart_or_stroke,default,8704,5265,647
+2017-2018,thyroid,default,8704,5265,625
+2017-2018,liver,default,8704,5265,284
+2017-2018,cancer,default,8704,5265,551
+2017-2018,obesity,sensitivity only,8704,8005,2236
+2017-2018,any default criterion,default,8704,8704,3710
+2017-2018,any default criterion or obesity,sensitivity only,8704,8704,4487
+2017-2020P,pregnant,default,14300,1750,87
+2017-2020P,diabetes,default,14300,13772,1636
+2017-2020P,kidney,default,14300,12762,2095
+2017-2020P,smoking_cotinine,default,14300,11395,2280
+2017-2020P,anemia_treatment,default,14300,13772,546
+2017-2020P,heart_or_stroke,default,14300,8544,1073
+2017-2020P,thyroid,default,14300,8544,1001
+2017-2020P,liver,default,14300,8544,439
+2017-2020P,cancer,default,14300,8544,907
+2017-2020P,obesity,sensitivity only,14300,13137,4592
+2017-2020P,any default criterion,default,14300,14300,6079
+2017-2020P,any default criterion or obesity,sensitivity only,14300,14300,8196
+2021-2023,pregnant,default,8860,1134,41
+2021-2023,diabetes,default,8860,8727,1027
+2021-2023,kidney,default,8860,8331,1375
+2021-2023,smoking_cotinine,default,8860,7091,1439
+2021-2023,anemia_treatment,default,8860,8727,332
+2021-2023,heart_or_stroke,default,8860,6064,773
+2021-2023,thyroid,default,8860,6063,837
+2021-2023,liver,default,8860,6064,357
+2021-2023,cancer,default,8860,6064,910
+2021-2023,obesity,sensitivity only,8860,8471,3023
+2021-2023,any default criterion,default,8860,8860,4148
+2021-2023,any default criterion or obesity,sensitivity only,8860,8860,5446

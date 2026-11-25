@@ -1,0 +1,17 @@
+[project]
+name = "nhanes-lab-percentiles"
+version = "1.0.0"
+description = "Survey-weighted percentiles of NHANES laboratory analytes by sex and age band"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas>=2.1",
+  "numpy>=1.26",
+  "pyreadstat>=1.2",
+  "scipy>=1.11",
+  "requests>=2.31",
+  "pytest>=8",
+  "openpyxl>=3.1",
+  "xlrd>=2.0",
+]
+[tool.uv]
+package = false

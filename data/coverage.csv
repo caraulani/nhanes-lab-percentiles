@@ -1,0 +1,1505 @@
+analyte_id,nhanes_variable,cycle,cdc_file,n_results,used,cycle_set,reason_not_used
+vitamin-b12,LBDB12,2013-2014,VITB12_H,5447,True,2011-2020P,
+vitamin-b12,LBXB12,2011-2012,VITB12_G,4877,True,2011-2020P,
+basophils-absolute,LBDBANO,2017-2020P,P_CBC,12151,True,2011-2020P,
+basophils-absolute,LBDBANO,2013-2014,CBC_H,8519,True,2011-2020P,
+basophils-absolute,LBDBANO,2015-2016,CBC_I,8116,True,2011-2020P,
+basophils-absolute,LBDBANO,2011-2012,CBC_G,7944,False,,method change or rule; see analytes.csv method_note
+basophils-absolute,LBDBANO,2021-2023,CBC_L,7582,True,2021-2023,
+basophils-absolute,LBDBANO,2017-2018,CBC_J,7523,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+eosinophils-absolute,LBDEONO,2017-2020P,P_CBC,12151,True,2011-2020P,
+eosinophils-absolute,LBDEONO,2013-2014,CBC_H,8519,True,2011-2020P,
+eosinophils-absolute,LBDEONO,2015-2016,CBC_I,8116,True,2011-2020P,
+eosinophils-absolute,LBDEONO,2011-2012,CBC_G,7944,False,,method change or rule; see analytes.csv method_note
+eosinophils-absolute,LBDEONO,2021-2023,CBC_L,7582,True,2021-2023,
+eosinophils-absolute,LBDEONO,2017-2018,CBC_J,7523,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+folate-serum,LBDFOT,2013-2014,FOLFMS_H,8452,True,2011-2020P,
+folate-serum,LBDFOT,2015-2016,FOLFMS_I,8047,True,2011-2020P,
+folate-serum,LBDFOT,2011-2012,FOLFMS_G,7459,True,2011-2020P,
+folate-serum,LBDFOT,2021-2023,FOLFMS_L,7348,True,2021-2023,
+folate-serum,LBDFOT,2017-2020P,P_FOLFMS,7334,True,2011-2020P,
+folate-serum,LBDFOT,2017-2018,FOLFMS_J,4571,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+hdl-cholesterol,LBDHDD,2017-2020P,P_HDL,10828,True,2011-2020P,
+hdl-cholesterol,LBDHDD,2013-2014,HDL_H,7624,True,2011-2020P,
+hdl-cholesterol,LBDHDD,2015-2016,HDL_I,7256,True,2011-2020P,
+hdl-cholesterol,LBDHDD,2011-2012,HDL_G,6989,True,2011-2020P,
+hdl-cholesterol,LBDHDD,2021-2023,HDL_L,6890,True,2021-2023,
+hdl-cholesterol,LBDHDD,2017-2018,HDL_J,6738,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+ldl-cholesterol-friedewald,LBDLDL,2017-2020P,P_TRIGLY,4617,True,2011-2020P,
+ldl-cholesterol-friedewald,LBDLDL,2021-2023,TRIGLY_L,3480,True,2021-2023,
+ldl-cholesterol-friedewald,LBDLDL,2013-2014,TRIGLY_H,3105,True,2011-2020P,
+ldl-cholesterol-friedewald,LBDLDL,2011-2012,TRIGLY_G,2942,True,2011-2020P,
+ldl-cholesterol-friedewald,LBDLDL,2017-2018,TRIGLY_J,2808,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+ldl-cholesterol-friedewald,LBDLDL,2015-2016,TRIGLY_I,2699,True,2011-2020P,
+ldl-cholesterol,LBDLDLM,2017-2020P,P_TRIGLY,4617,True,2011-2020P,
+ldl-cholesterol,LBDLDLM,2021-2023,TRIGLY_L,3480,True,2021-2023,
+ldl-cholesterol,LBDLDLM,2017-2018,TRIGLY_J,2808,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+ldl-cholesterol-nih-eq2,LBDLDLN,2017-2020P,P_TRIGLY,4642,True,2011-2020P,
+ldl-cholesterol-nih-eq2,LBDLDLN,2021-2023,TRIGLY_L,3513,True,2021-2023,
+ldl-cholesterol-nih-eq2,LBDLDLN,2017-2018,TRIGLY_J,2827,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+lymphocytes-absolute,LBDLYMNO,2017-2020P,P_CBC,12151,True,2011-2020P,
+lymphocytes-absolute,LBDLYMNO,2013-2014,CBC_H,8519,True,2011-2020P,
+lymphocytes-absolute,LBDLYMNO,2015-2016,CBC_I,8116,True,2011-2020P,
+lymphocytes-absolute,LBDLYMNO,2011-2012,CBC_G,7944,False,,method change or rule; see analytes.csv method_note
+lymphocytes-absolute,LBDLYMNO,2021-2023,CBC_L,7582,True,2021-2023,
+lymphocytes-absolute,LBDLYMNO,2017-2018,CBC_J,7523,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+monocytes-absolute,LBDMONO,2017-2020P,P_CBC,12151,True,2011-2020P,
+monocytes-absolute,LBDMONO,2013-2014,CBC_H,8519,True,2011-2020P,
+monocytes-absolute,LBDMONO,2015-2016,CBC_I,8116,True,2011-2020P,
+monocytes-absolute,LBDMONO,2011-2012,CBC_G,7944,False,,method change or rule; see analytes.csv method_note
+monocytes-absolute,LBDMONO,2021-2023,CBC_L,7582,True,2021-2023,
+monocytes-absolute,LBDMONO,2017-2018,CBC_J,7523,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+neutrophils-absolute,LBDNENO,2017-2020P,P_CBC,12151,True,2011-2020P,
+neutrophils-absolute,LBDNENO,2013-2014,CBC_H,8519,True,2011-2020P,
+neutrophils-absolute,LBDNENO,2015-2016,CBC_I,8116,True,2011-2020P,
+neutrophils-absolute,LBDNENO,2011-2012,CBC_G,7944,False,,method change or rule; see analytes.csv method_note
+neutrophils-absolute,LBDNENO,2021-2023,CBC_L,7582,True,2021-2023,
+neutrophils-absolute,LBDNENO,2017-2018,CBC_J,7523,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+transferrin-saturation,LBDPCT,2017-2020P,P_FETIB,9453,True,2011-2020P,
+transferrin-saturation,LBDPCT,2017-2018,FETIB_J,5893,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+total-folate-rbc,LBDRF7SI,2021-2023,FFMR_L,7190,True,2021-2023,
+folate-rbc,LBDRFO,2013-2014,FOLATE_H,8460,True,2011-2020P,
+folate-rbc,LBDRFO,2015-2016,FOLATE_I,8099,True,2011-2020P,
+folate-rbc,LBDRFO,2011-2012,FOLATE_G,7867,True,2011-2020P,
+folate-rbc,LBDRFO,2021-2023,FOLATE_L,7506,True,2021-2023,
+folate-rbc,LBDRFO,2017-2020P,P_FOLATE,7420,True,2011-2020P,
+folate-rbc,LBDRFO,2017-2018,FOLATE_J,4582,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+tibc,LBDTIB,2017-2020P,P_FETIB,9453,True,2011-2020P,
+tibc,LBDTIB,2017-2018,FETIB_J,5893,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+decanaldehyde,LBX10AL,2013-2014,ALD_H,1411,True,2011-2020P,
+17-hydroxyprogesterone,LBX17H,2017-2020P,P_TST,8244,True,2011-2020P,
+17-hydroxyprogesterone,LBX17H,2021-2023,TST_L,7120,True,2021-2023,
+blood-2-5-dimethylfuran,LBX2DF,2017-2020P,P_VOCWB,4598,True,2011-2020P,
+blood-2-5-dimethylfuran,LBX2DF,2013-2014,VOCWB_H,3203,False,,default rule uses only the most recent pre-pandemic cycle
+blood-2-5-dimethylfuran,LBX2DF,2015-2016,VOCWB_I,3083,False,,default rule uses only the most recent pre-pandemic cycle
+blood-2-5-dimethylfuran,LBX2DF,2021-2023,VOCWB_L,2960,True,2021-2023,
+blood-2-5-dimethylfuran,LBX2DF,2017-2018,VOCWB_J,2866,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-2-5-dimethylfuran,LBX2DF,2011-2012,VOCWB_G,2812,False,,default rule uses only the most recent pre-pandemic cycle
+propanaldehyde,LBX3AL,2013-2014,ALD_H,1714,True,2011-2020P,
+butyraldehyde,LBX4AL,2013-2014,ALD_H,1740,True,2011-2020P,
+pentanaldehyde,LBX5AL,2013-2014,ALD_H,1768,True,2011-2020P,
+hexanaldehyde,LBX6AL,2013-2014,ALD_H,1571,True,2011-2020P,
+heptanaldehyde,LBX7AL,2013-2014,ALD_H,1527,True,2011-2020P,
+octanaldehyde,LBX8AL,2013-2014,ALD_H,1456,True,2011-2020P,
+nonanaldehyde,LBX9AL,2013-2014,ALD_H,1534,True,2011-2020P,
+acrylamide,LBXACR,2015-2016,AMDGYD_I,2413,True,2011-2020P,
+acrylamide,LBXACR,2013-2014,AMDGYD_H,2348,False,,default rule uses only the most recent pre-pandemic cycle
+alpha-1-acid-glycoprotein-agp,LBXAGP,2021-2023,AGP_L,1950,True,2021-2023,
+alpha-carotene,LBXALC,2017-2018,VITAEC_J,6282,True,2011-2020P,
+alpha-linolenic-acid-18-3n-3,LBXALN,2011-2012,FAS_G,4405,False,,default rule uses only the most recent pre-pandemic cycle
+alpha-linolenic-acid-18-3n-3,LBXALN,2013-2014,FAS_H,4341,True,2011-2020P,
+amh,LBXAMH,2021-2023,TST_L,6823,True,2021-2023,
+amh,LBXAMH,2017-2020P,P_TST,4682,True,2011-2020P,
+androstenedione,LBXAND,2017-2020P,P_TST,9531,True,2011-2020P,
+androstenedione,LBXAND,2021-2023,TST_L,7190,True,2021-2023,
+apolipoprotein-b,LBXAPB,2013-2014,APOB_H,3145,True,2011-2020P,
+apolipoprotein-b,LBXAPB,2011-2012,APOB_G,2992,True,2011-2020P,
+apolipoprotein-b,LBXAPB,2015-2016,APOB_I,2722,True,2011-2020P,
+arachidic-acid-20-0,LBXAR1,2013-2014,FAS_H,4244,True,2011-2020P,
+arachidic-acid-20-0,LBXAR1,2011-2012,FAS_G,4226,False,,default rule uses only the most recent pre-pandemic cycle
+arachidonic-acid-20-4n-6,LBXARA,2011-2012,FAS_G,4418,False,,default rule uses only the most recent pre-pandemic cycle
+arachidonic-acid-20-4n-6,LBXARA,2013-2014,FAS_H,4338,True,2011-2020P,
+alpha-crypotoxanthin,LBXARY,2017-2018,VITAEC_J,6482,True,2011-2020P,
+thyroglobulin-antibody,LBXATG,2011-2012,THYROD_G,1956,True,2011-2020P,
+butyrylcholinesterase-activity,LBXBA,2021-2023,BCHE_L,7061,True,2021-2023,
+basophils-percent,LBXBAPCT,2017-2020P,P_CBC,12151,True,2011-2020P,
+basophils-percent,LBXBAPCT,2013-2014,CBC_H,8519,True,2011-2020P,
+basophils-percent,LBXBAPCT,2015-2016,CBC_I,8116,True,2011-2020P,
+basophils-percent,LBXBAPCT,2011-2012,CBC_G,7944,False,,method change or rule; see analytes.csv method_note
+basophils-percent,LBXBAPCT,2021-2023,CBC_L,7582,True,2021-2023,
+basophils-percent,LBXBAPCT,2017-2018,CBC_J,7523,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+cadmium-blood,LBXBCD,2017-2020P,P_PBCD,12102,True,2011-2020P,
+cadmium-blood,LBXBCD,2011-2012,PBCD_G,7920,True,2011-2020P,
+cadmium-blood,LBXBCD,2021-2023,PBCD_L,7586,True,2021-2023,
+cadmium-blood,LBXBCD,2017-2018,PBCD_J,7513,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+cadmium-blood,LBXBCD,2013-2014,PBCD_H,5215,True,2011-2020P,
+cadmium-blood,LBXBCD,2015-2016,PBCD_I,4988,True,2011-2020P,
+cobalt,LBXBCO,2017-2020P,P_CRCO,5650,True,2011-2020P,
+cobalt,LBXBCO,2017-2018,CRCO_J,3520,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+cobalt,LBXBCO,2015-2016,CRCO_I,3454,False,,default rule uses only the most recent pre-pandemic cycle
+chromium,LBXBCR,2017-2020P,P_CRCO,5647,True,2011-2020P,
+chromium,LBXBCR,2017-2018,CRCO_J,3518,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+chromium,LBXBCR,2015-2016,CRCO_I,3442,False,,default rule uses only the most recent pre-pandemic cycle
+trans-beta-carotene,LBXBEC,2017-2018,VITAEC_J,6582,True,2011-2020P,
+br-perfluorooctanoic-acid-iso,LBXBFOA,2017-2020P,P_PFAS,3072,True,2011-2020P,
+br-perfluorooctanoic-acid-iso,LBXBFOA,2021-2023,PFAS_L,2551,True,2021-2023,
+br-perfluorooctanoic-acid-iso,LBXBFOA,2015-2016,PFAS_I,1993,False,,default rule uses only the most recent pre-pandemic cycle
+br-perfluorooctanoic-acid-iso,LBXBFOA,2017-2018,PFAS_J,1929,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+mercury-ethyl,LBXBGE,2017-2020P,P_IHGEM,12029,True,2011-2020P,
+mercury-ethyl,LBXBGE,2011-2012,IHGEM_G,7841,False,,default rule uses only the most recent pre-pandemic cycle
+mercury-ethyl,LBXBGE,2021-2023,IHGEM_L,7567,True,2021-2023,
+mercury-ethyl,LBXBGE,2017-2018,IHGEM_J,7480,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+mercury-ethyl,LBXBGE,2013-2014,IHGEM_H,5175,False,,default rule uses only the most recent pre-pandemic cycle
+mercury-ethyl,LBXBGE,2015-2016,IHGEM_I,4936,False,,default rule uses only the most recent pre-pandemic cycle
+mercury-methyl,LBXBGM,2017-2020P,P_IHGEM,12029,True,2011-2020P,
+mercury-methyl,LBXBGM,2011-2012,IHGEM_G,7841,False,,default rule uses only the most recent pre-pandemic cycle
+mercury-methyl,LBXBGM,2021-2023,IHGEM_L,7567,True,2021-2023,
+mercury-methyl,LBXBGM,2017-2018,IHGEM_J,7480,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+mercury-methyl,LBXBGM,2013-2014,IHGEM_H,5175,False,,default rule uses only the most recent pre-pandemic cycle
+mercury-methyl,LBXBGM,2015-2016,IHGEM_I,4938,False,,default rule uses only the most recent pre-pandemic cycle
+manganese,LBXBMN,2017-2020P,P_PBCD,12102,True,2011-2020P,
+manganese,LBXBMN,2011-2012,PBCD_G,7920,True,2011-2020P,
+manganese,LBXBMN,2021-2023,PBCD_L,7586,True,2021-2023,
+manganese,LBXBMN,2017-2018,PBCD_J,7513,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+manganese,LBXBMN,2013-2014,PBCD_H,5215,True,2011-2020P,
+manganese,LBXBMN,2015-2016,PBCD_I,4987,True,2011-2020P,
+lead-blood,LBXBPB,2017-2020P,P_PBCD,11107,True,2011-2020P,
+lead-blood,LBXBPB,2011-2012,PBCD_G,7920,True,2011-2020P,
+lead-blood,LBXBPB,2021-2023,PBCD_L,7586,True,2021-2023,
+lead-blood,LBXBPB,2017-2018,PBCD_J,6884,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+lead-blood,LBXBPB,2013-2014,PBCD_H,5215,True,2011-2020P,
+lead-blood,LBXBPB,2015-2016,PBCD_I,4988,True,2011-2020P,
+selenium-whole-blood,LBXBSE,2017-2020P,P_PBCD,12102,True,2011-2020P,
+selenium-whole-blood,LBXBSE,2011-2012,PBCD_G,7920,True,2011-2020P,
+selenium-whole-blood,LBXBSE,2021-2023,PBCD_L,7586,True,2021-2023,
+selenium-whole-blood,LBXBSE,2017-2018,PBCD_J,7513,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+selenium-whole-blood,LBXBSE,2013-2014,PBCD_H,5215,True,2011-2020P,
+selenium-whole-blood,LBXBSE,2015-2016,PBCD_I,4987,True,2011-2020P,
+benzaldehyde,LBXBZAL,2013-2014,ALD_H,1468,True,2011-2020P,
+capric-acid-c10-0,LBXCAP,2013-2014,FAS_H,3931,True,2011-2020P,
+capric-acid-c10-0,LBXCAP,2011-2012,FAS_G,3873,False,,default rule uses only the most recent pre-pandemic cycle
+cis-beta-carotene,LBXCBC,2017-2018,VITAEC_J,6224,True,2011-2020P,
+butyrylcholinesterase-con,LBXCH,2021-2023,BCHE_L,7060,True,2021-2023,
+cotinine-serum,LBXCOT,2017-2020P,P_COT,11395,True,2011-2020P,
+cotinine-serum,LBXCOT,2013-2014,COT_H,8029,True,2011-2020P,
+cotinine-serum,LBXCOT,2015-2016,COT_I,7666,True,2011-2020P,
+cotinine-serum,LBXCOT,2011-2012,COTNAL_G,7378,True,2011-2020P,
+cotinine-serum,LBXCOT,2017-2018,COT_J,7101,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+cotinine-serum,LBXCOT,2021-2023,COT_L,7091,True,2021-2023,
+crotonaldehyde,LBXCRAL,2013-2014,ALD_H,1733,True,2011-2020P,
+beta-cryptoxanthin,LBXCRY,2017-2018,VITAEC_J,6488,True,2011-2020P,
+docosanoic-acid-22-0,LBXDA1,2011-2012,FAS_G,4378,False,,default rule uses only the most recent pre-pandemic cycle
+docosanoic-acid-22-0,LBXDA1,2013-2014,FAS_H,3980,True,2011-2020P,
+docosahexaenoic-acid-22-6n-3,LBXDHA,2011-2012,FAS_G,4405,False,,default rule uses only the most recent pre-pandemic cycle
+docosahexaenoic-acid-22-6n-3,LBXDHA,2013-2014,FAS_H,4323,True,2011-2020P,
+dhea-s,LBXDHE,2021-2023,TST_L,7065,True,2021-2023,
+docosapentaenoic-acid-22-5n-3,LBXDP3,2011-2012,FAS_G,4305,False,,default rule uses only the most recent pre-pandemic cycle
+docosapentaenoic-acid-22-5n-3,LBXDP3,2013-2014,FAS_H,4294,True,2011-2020P,
+docosapentaenoic-acid-22-5n-6,LBXDP6,2013-2014,FAS_H,4317,True,2011-2020P,
+docosapentaenoic-acid-22-5n-6,LBXDP6,2011-2012,FAS_G,4274,False,,default rule uses only the most recent pre-pandemic cycle
+docosatetraenoic-acid-22-4n-6,LBXDTA,2011-2012,FAS_G,4259,False,,default rule uses only the most recent pre-pandemic cycle
+docosatetraenoic-acid-22-4n-6,LBXDTA,2013-2014,FAS_H,4248,True,2011-2020P,
+eicosadienoic-acid-20-2n-6,LBXED1,2013-2014,FAS_H,4202,True,2011-2020P,
+eicosadienoic-acid-20-2n-6,LBXED1,2011-2012,FAS_G,3974,False,,default rule uses only the most recent pre-pandemic cycle
+eicosenoic-acid-20-1n-9,LBXEN1,2013-2014,FAS_H,4276,True,2011-2020P,
+eicosenoic-acid-20-1n-9,LBXEN1,2011-2012,FAS_G,4029,False,,default rule uses only the most recent pre-pandemic cycle
+ethylene-oxide,LBXEOA,2017-2020P,P_ETHOX,3637,True,2011-2020P,
+ethylene-oxide,LBXEOA,2013-2014,ETHOX_H,2485,False,,default rule uses only the most recent pre-pandemic cycle
+ethylene-oxide,LBXEOA,2015-2016,ETHOX_I,2375,False,,default rule uses only the most recent pre-pandemic cycle
+ethylene-oxide,LBXEOA,2017-2018,ETHOX_J,2248,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+eosinophils-percent,LBXEOPCT,2017-2020P,P_CBC,12151,True,2011-2020P,
+eosinophils-percent,LBXEOPCT,2013-2014,CBC_H,8519,True,2011-2020P,
+eosinophils-percent,LBXEOPCT,2015-2016,CBC_I,8116,True,2011-2020P,
+eosinophils-percent,LBXEOPCT,2011-2012,CBC_G,7944,False,,method change or rule; see analytes.csv method_note
+eosinophils-percent,LBXEOPCT,2021-2023,CBC_L,7582,True,2021-2023,
+eosinophils-percent,LBXEOPCT,2017-2018,CBC_J,7523,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+eicosapentaenoic-acid-20-5n-3,LBXEPA,2011-2012,FAS_G,4421,False,,default rule uses only the most recent pre-pandemic cycle
+eicosapentaenoic-acid-20-5n-3,LBXEPA,2013-2014,FAS_H,4339,True,2011-2020P,
+estrone-sulfate,LBXES1,2017-2020P,P_TST,9016,True,2011-2020P,
+estrone-sulfate,LBXES1,2021-2023,TST_L,7013,True,2021-2023,
+estrone-e1,LBXESO,2017-2020P,P_TST,9179,True,2011-2020P,
+estrone-e1,LBXESO,2021-2023,TST_L,7159,True,2021-2023,
+estradiol-e2,LBXEST,2017-2020P,P_TST,9195,True,2011-2020P,
+estradiol-e2,LBXEST,2013-2014,TST_H,7269,False,,method change or rule; see analytes.csv method_note
+estradiol-e2,LBXEST,2015-2016,TST_I,7150,False,,method change or rule; see analytes.csv method_note
+estradiol-e2,LBXEST,2021-2023,TST_L,7148,True,2021-2023,
+eicosatrienoic-acid-c20-3n-9,LBXET1,2013-2014,FAS_H,4261,True,2011-2020P,
+eicosatrienoic-acid-c20-3n-9,LBXET1,2011-2012,FAS_G,3782,False,,default rule uses only the most recent pre-pandemic cycle
+ferritin,LBXFER,2017-2020P,P_FERTIN,10557,True,2011-2020P,
+ferritin,LBXFER,2017-2018,FERTIN_J,6589,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+ferritin,LBXFER,2015-2016,FERTIN_I,2684,True,2011-2020P,
+ferritin,LBXFER,2021-2023,FERTIN_L,1950,True,2021-2023,
+formaldehyde,LBXFOR,2015-2016,FORMAL_I,2372,True,2011-2020P,
+formaldehyde,LBXFOR,2013-2014,FORMAL_H,2149,False,,default rule uses only the most recent pre-pandemic cycle
+fsh,LBXFSH,2017-2020P,P_TST,9124,True,2011-2020P,
+fsh,LBXFSH,2021-2023,TST_L,7014,True,2021-2023,
+hba1c,LBXGH,2017-2020P,P_GHB,9737,True,2011-2020P,
+hba1c,LBXGH,2021-2023,GHB_L,6715,True,2021-2023,
+hba1c,LBXGH,2013-2014,GHB_H,6643,True,2011-2020P,
+hba1c,LBXGH,2015-2016,GHB_I,6326,True,2011-2020P,
+hba1c,LBXGH,2011-2012,GHB_G,6145,True,2011-2020P,
+hba1c,LBXGH,2017-2018,GHB_J,6045,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+gamma-linolenic-acid-18-3n-6,LBXGLA,2013-2014,FAS_H,4365,True,2011-2020P,
+gamma-linolenic-acid-18-3n-6,LBXGLA,2011-2012,FAS_G,4312,False,,default rule uses only the most recent pre-pandemic cycle
+ogtt-2h-glucose,LBXGLT,2013-2014,OGTT_H,2345,True,2011-2020P,
+ogtt-2h-glucose,LBXGLT,2011-2012,OGTT_G,2287,True,2011-2020P,
+ogtt-2h-glucose,LBXGLT,2015-2016,OGTT_I,2084,True,2011-2020P,
+glucose-fasting,LBXGLU,2017-2020P,P_GLU,4744,True,2011-2020P,
+glucose-fasting,LBXGLU,2021-2023,GLU_L,3672,True,2021-2023,
+glucose-fasting,LBXGLU,2013-2014,GLU_H,3172,True,2011-2020P,
+glucose-fasting,LBXGLU,2011-2012,GLU_G,3033,True,2011-2020P,
+glucose-fasting,LBXGLU,2015-2016,GLU_I,2972,True,2011-2020P,
+glucose-fasting,LBXGLU,2017-2018,GLU_J,2891,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+glycideamide,LBXGLY,2013-2014,AMDGYD_H,2318,False,,default rule uses only the most recent pre-pandemic cycle
+glycideamide,LBXGLY,2015-2016,AMDGYD_I,2267,True,2011-2020P,
+gamma-tocopherol,LBXGTC,2017-2018,VITAEC_J,6731,True,2011-2020P,
+hydroxycotinine-serum,LBXHCOT,2017-2020P,P_COT,11395,True,2011-2020P,
+hydroxycotinine-serum,LBXHCT,2013-2014,COT_H,8029,True,2011-2020P,
+hydroxycotinine-serum,LBXHCT,2015-2016,COT_I,7666,True,2011-2020P,
+hydroxycotinine-serum,LBXHCT,2017-2018,COT_J,7101,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+hydroxycotinine-serum,LBXHCOT,2021-2023,COT_L,7092,True,2021-2023,
+hematocrit,LBXHCT,2017-2020P,P_CBC,12156,True,2011-2020P,
+hematocrit,LBXHCT,2013-2014,CBC_H,8544,True,2011-2020P,
+hematocrit,LBXHCT,2015-2016,CBC_I,8117,True,2011-2020P,
+hematocrit,LBXHCT,2011-2012,CBC_G,7953,False,,method change or rule; see analytes.csv method_note
+hematocrit,LBXHCT,2021-2023,CBC_L,7593,True,2021-2023,
+hematocrit,LBXHCT,2017-2018,CBC_J,7528,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+hemoglobin,LBXHGB,2017-2020P,P_CBC,12156,True,2011-2020P,
+hemoglobin,LBXHGB,2013-2014,CBC_H,8544,True,2011-2020P,
+hemoglobin,LBXHGB,2015-2016,CBC_I,8117,True,2011-2020P,
+hemoglobin,LBXHGB,2011-2012,CBC_G,7953,False,,method change or rule; see analytes.csv method_note
+hemoglobin,LBXHGB,2021-2023,CBC_L,7593,True,2021-2023,
+hemoglobin,LBXHGB,2017-2018,CBC_J,7528,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+homo-gamma-linolenic-acid-20-3n-6,LBXHGL,2013-2014,FAS_H,4266,True,2011-2020P,
+hs-crp,LBXHSCRP,2017-2020P,P_HSCRP,11614,True,2011-2020P,
+hs-crp,LBXHSCRP,2015-2016,HSCRP_I,7867,False,,method change or rule; see analytes.csv method_note
+hs-crp,LBXHSCRP,2021-2023,HSCRP_L,7282,True,2021-2023,
+hs-crp,LBXHSCRP,2017-2018,HSCRP_J,7250,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+isopentanaldehyde,LBXI5AL,2013-2014,ALD_H,1798,True,2011-2020P,
+mercury-inorganic,LBXIHG,2017-2020P,P_IHGEM,12029,True,2011-2020P,
+mercury-inorganic,LBXIHG,2011-2012,IHGEM_G,7841,False,,default rule uses only the most recent pre-pandemic cycle
+mercury-inorganic,LBXIHG,2021-2023,IHGEM_L,7567,True,2021-2023,
+mercury-inorganic,LBXIHG,2017-2018,IHGEM_J,7480,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+mercury-inorganic,LBXIHG,2013-2014,IHGEM_H,5175,False,,default rule uses only the most recent pre-pandemic cycle
+mercury-inorganic,LBXIHG,2015-2016,IHGEM_I,4938,False,,default rule uses only the most recent pre-pandemic cycle
+fasting-insulin,LBXIN,2017-2020P,P_INS,4625,True,2011-2020P,
+fasting-insulin,LBXIN,2021-2023,INS_L,3510,True,2021-2023,
+fasting-insulin,LBXIN,2013-2014,INS_H,3093,True,2011-2020P,
+fasting-insulin,LBXIN,2015-2016,INS_I,2921,True,2011-2020P,
+fasting-insulin,LBXIN,2011-2012,GLU_G,2881,True,2011-2020P,
+fasting-insulin,LBXIN,2017-2018,INS_J,2825,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+serum-iron-frozen,LBXIRN,2017-2020P,P_FETIB,9505,True,2011-2020P,
+serum-iron-frozen,LBXIRN,2017-2018,FETIB_J,5922,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+lauric-acid-c12-0,LBXLAR,2011-2012,FAS_G,4249,False,,default rule uses only the most recent pre-pandemic cycle
+lauric-acid-c12-0,LBXLAR,2013-2014,FAS_H,3904,True,2011-2020P,
+total-lycopene,LBXLCC,2017-2018,VITAEC_J,6392,True,2011-2020P,
+lignoceric-acid-24-0,LBXLG1,2011-2012,FAS_G,4394,False,,default rule uses only the most recent pre-pandemic cycle
+lignoceric-acid-24-0,LBXLG1,2013-2014,FAS_H,4118,True,2011-2020P,
+linoleic-acid-18-2n-6,LBXLNA,2011-2012,FAS_G,4407,False,,default rule uses only the most recent pre-pandemic cycle
+linoleic-acid-18-2n-6,LBXLNA,2013-2014,FAS_H,4363,True,2011-2020P,
+lh,LBXLUH,2017-2020P,P_TST,9221,True,2011-2020P,
+lh,LBXLUH,2021-2023,TST_L,7014,True,2021-2023,
+lutein-and-zeaxanthin,LBXLUZ,2017-2018,VITAEC_J,6500,True,2011-2020P,
+trans-lycopene,LBXLYC,2017-2018,VITAEC_J,6463,True,2011-2020P,
+lymphocytes-percent,LBXLYPCT,2017-2020P,P_CBC,12151,True,2011-2020P,
+lymphocytes-percent,LBXLYPCT,2013-2014,CBC_H,8519,True,2011-2020P,
+lymphocytes-percent,LBXLYPCT,2015-2016,CBC_I,8116,True,2011-2020P,
+lymphocytes-percent,LBXLYPCT,2011-2012,CBC_G,7944,False,,method change or rule; see analytes.csv method_note
+lymphocytes-percent,LBXLYPCT,2021-2023,CBC_L,7582,True,2021-2023,
+lymphocytes-percent,LBXLYPCT,2017-2018,CBC_J,7523,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+magnesium-serum,LBXMAGN,2021-2023,BIOPRO_L,6324,True,2021-2023,
+mchc,LBXMC,2017-2020P,P_CBC,12156,True,2011-2020P,
+mchc,LBXMC,2013-2014,CBC_H,8544,True,2011-2020P,
+mchc,LBXMC,2015-2016,CBC_I,8147,True,2011-2020P,
+mchc,LBXMC,2011-2012,CBC_G,7953,False,,method change or rule; see analytes.csv method_note
+mchc,LBXMC,2021-2023,CBC_L,7593,True,2021-2023,
+mchc,LBXMC,2017-2018,CBC_J,7528,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+mch,LBXMCHSI,2017-2020P,P_CBC,12156,True,2011-2020P,
+mch,LBXMCHSI,2013-2014,CBC_H,8544,True,2011-2020P,
+mch,LBXMCHSI,2015-2016,CBC_I,8117,True,2011-2020P,
+mch,LBXMCHSI,2011-2012,CBC_G,7953,False,,method change or rule; see analytes.csv method_note
+mch,LBXMCHSI,2021-2023,CBC_L,7593,True,2021-2023,
+mch,LBXMCHSI,2017-2018,CBC_J,7528,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+mcv,LBXMCVSI,2017-2020P,P_CBC,12156,True,2011-2020P,
+mcv,LBXMCVSI,2013-2014,CBC_H,8544,True,2011-2020P,
+mcv,LBXMCVSI,2015-2016,CBC_I,8117,True,2011-2020P,
+mcv,LBXMCVSI,2011-2012,CBC_G,7953,False,,method change or rule; see analytes.csv method_note
+mcv,LBXMCVSI,2021-2023,CBC_L,7593,True,2021-2023,
+mcv,LBXMCVSI,2017-2018,CBC_J,7528,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+sm-pfos,LBXMFOS,2017-2020P,P_PFAS,3072,True,2011-2020P,
+sm-pfos,LBXMFOS,2021-2023,PFAS_L,2551,True,2021-2023,
+sm-pfos,LBXMFOS,2015-2016,PFAS_I,1993,False,,default rule uses only the most recent pre-pandemic cycle
+sm-pfos,LBXMFOS,2017-2018,PFAS_J,1929,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+myristoleic-acid-14-1n-5,LBXML1,2013-2014,FAS_H,4311,True,2011-2020P,
+myristoleic-acid-14-1n-5,LBXML1,2011-2012,FAS_G,3911,False,,default rule uses only the most recent pre-pandemic cycle
+methylmalonic-acid,LBXMMASI,2013-2014,MMA_H,5444,True,2011-2020P,
+methylmalonic-acid,LBXMMASI,2011-2012,MMA_G,4880,True,2011-2020P,
+monocytes-percent,LBXMOPCT,2017-2020P,P_CBC,12151,True,2011-2020P,
+monocytes-percent,LBXMOPCT,2013-2014,CBC_H,8519,True,2011-2020P,
+monocytes-percent,LBXMOPCT,2015-2016,CBC_I,8116,True,2011-2020P,
+monocytes-percent,LBXMOPCT,2011-2012,CBC_G,7944,False,,method change or rule; see analytes.csv method_note
+monocytes-percent,LBXMOPCT,2021-2023,CBC_L,7582,True,2021-2023,
+monocytes-percent,LBXMOPCT,2017-2018,CBC_J,7523,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+2-n-methyl-pfosa-acetic-acid,LBXMPAH,2017-2020P,P_PFAS,3072,True,2011-2020P,
+2-n-methyl-pfosa-acetic-acid,LBXMPAH,2021-2023,PFAS_L,2551,True,2021-2023,
+2-n-methyl-pfosa-acetic-acid,LBXMPAH,2013-2014,PFAS_H,2168,False,,default rule uses only the most recent pre-pandemic cycle
+2-n-methyl-pfosa-acetic-acid,LBXMPAH,2015-2016,PFAS_I,1993,False,,default rule uses only the most recent pre-pandemic cycle
+2-n-methyl-pfosa-acetic-acid,LBXMPAH,2017-2018,PFAS_J,1929,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+mpv,LBXMPSI,2017-2020P,P_CBC,12156,True,2011-2020P,
+mpv,LBXMPSI,2013-2014,CBC_H,8544,True,2011-2020P,
+mpv,LBXMPSI,2015-2016,CBC_I,8117,True,2011-2020P,
+mpv,LBXMPSI,2011-2012,CBC_G,7952,False,,method change or rule; see analytes.csv method_note
+mpv,LBXMPSI,2021-2023,CBC_L,7593,True,2021-2023,
+mpv,LBXMPSI,2017-2018,CBC_J,7528,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+myristic-acid-14-0,LBXMR1,2011-2012,FAS_G,4417,False,,default rule uses only the most recent pre-pandemic cycle
+myristic-acid-14-0,LBXMR1,2013-2014,FAS_H,4363,True,2011-2020P,
+margaric-acid-c17-0,LBXMRG,2011-2012,FAS_G,4355,False,,default rule uses only the most recent pre-pandemic cycle
+margaric-acid-c17-0,LBXMRG,2013-2014,FAS_H,4292,True,2011-2020P,
+neutrophils-percent,LBXNEPCT,2017-2020P,P_CBC,12151,True,2011-2020P,
+neutrophils-percent,LBXNEPCT,2013-2014,CBC_H,8519,True,2011-2020P,
+neutrophils-percent,LBXNEPCT,2015-2016,CBC_I,8116,True,2011-2020P,
+neutrophils-percent,LBXNEPCT,2011-2012,CBC_G,7944,False,,method change or rule; see analytes.csv method_note
+neutrophils-percent,LBXNEPCT,2021-2023,CBC_L,7582,True,2021-2023,
+neutrophils-percent,LBXNEPCT,2017-2018,CBC_J,7523,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-perfluorooctanoic-acid,LBXNFOA,2017-2020P,P_PFAS,3072,True,2011-2020P,
+n-perfluorooctanoic-acid,LBXNFOA,2021-2023,PFAS_L,2551,True,2021-2023,
+n-perfluorooctanoic-acid,LBXNFOA,2015-2016,PFAS_I,1993,False,,default rule uses only the most recent pre-pandemic cycle
+n-perfluorooctanoic-acid,LBXNFOA,2017-2018,PFAS_J,1929,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-perfluorooctane-sulfonic-acid,LBXNFOS,2017-2020P,P_PFAS,3072,True,2011-2020P,
+n-perfluorooctane-sulfonic-acid,LBXNFOS,2021-2023,PFAS_L,2551,True,2021-2023,
+n-perfluorooctane-sulfonic-acid,LBXNFOS,2015-2016,PFAS_I,1993,False,,default rule uses only the most recent pre-pandemic cycle
+n-perfluorooctane-sulfonic-acid,LBXNFOS,2017-2018,PFAS_J,1929,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-nitromethane,LBXNM,2011-2012,VOCMWB_G,2284,True,2011-2020P,
+nervonic-acid-24-1n-9,LBXNR1,2013-2014,FAS_H,4058,True,2011-2020P,
+nervonic-acid-24-1n-9,LBXNR1,2011-2012,FAS_G,4025,False,,default rule uses only the most recent pre-pandemic cycle
+nrbc-percent,LBXNRBC,2017-2020P,P_CBC,12151,True,2011-2020P,
+nrbc-percent,LBXNRBC,2021-2023,CBC_L,7582,True,2021-2023,
+nrbc-percent,LBXNRBC,2017-2018,CBC_J,7523,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+oleic-acid-18-1n-9,LBXOL1,2011-2012,FAS_G,4405,False,,default rule uses only the most recent pre-pandemic cycle
+oleic-acid-18-1n-9,LBXOL1,2013-2014,FAS_H,4363,True,2011-2020P,
+arachidic-acid-c20-0,LBXP1A,2021-2023,FAR_L,7133,True,2021-2023,
+11-eicosenoic-acid-c20-1n-9,LBXP1E,2021-2023,FAR_L,7035,True,2021-2023,
+tetracosanoic-acid-c24-0,LBXP1G,2021-2023,FAR_L,7165,True,2021-2023,
+alpha-linolenic-acid-c18-3n-3,LBXPAN,2021-2023,FAR_L,7176,True,2021-2023,
+docosapentaenoic-acid-3-c22-5n-3,LBXPD3,2021-2023,FAR_L,7210,True,2021-2023,
+docosapentaenoic-acid-c22-5n-6,LBXPD6,2021-2023,FAR_L,7213,True,2021-2023,
+docosanoic-acid-c22-0,LBXPDA,2021-2023,FAR_L,7165,True,2021-2023,
+11-14-eicosadienoic-acid-c20-2n6,LBXPED,2021-2023,FAR_L,7215,True,2021-2023,
+pentadecanoic-acid-c15-0,LBXPEN,2011-2012,FAS_G,4401,False,,default rule uses only the most recent pre-pandemic cycle
+pentadecanoic-acid-c15-0,LBXPEN,2013-2014,FAS_H,4368,True,2011-2020P,
+perfluorodecanoic-acid,LBXPFDE,2017-2020P,P_PFAS,3072,True,2011-2020P,
+perfluorodecanoic-acid,LBXPFDE,2021-2023,PFAS_L,2551,True,2021-2023,
+perfluorodecanoic-acid,LBXPFDE,2013-2014,PFAS_H,2168,False,,default rule uses only the most recent pre-pandemic cycle
+perfluorodecanoic-acid,LBXPFDE,2015-2016,PFAS_I,1993,False,,default rule uses only the most recent pre-pandemic cycle
+perfluorodecanoic-acid,LBXPFDE,2017-2018,PFAS_J,1929,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+perfluorododecanoic-acid,LBXPFDO,2013-2014,PFAS_H,2168,False,,default rule uses only the most recent pre-pandemic cycle
+perfluorododecanoic-acid,LBXPFDO,2015-2016,PFAS_I,1993,True,2011-2020P,
+perfluorohexane-sulfonic-acid-pfas,LBXPFHS,2017-2020P,P_PFAS,3072,True,2011-2020P,
+perfluorohexane-sulfonic-acid-pfas,LBXPFHS,2021-2023,PFAS_L,2551,True,2021-2023,
+perfluorohexane-sulfonic-acid-pfas,LBXPFHS,2013-2014,PFAS_H,2168,False,,default rule uses only the most recent pre-pandemic cycle
+perfluorohexane-sulfonic-acid-pfas,LBXPFHS,2015-2016,PFAS_I,1993,False,,default rule uses only the most recent pre-pandemic cycle
+perfluorohexane-sulfonic-acid-pfas,LBXPFHS,2017-2018,PFAS_J,1929,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+perfluorononanoic-acid-pfas,LBXPFNA,2017-2020P,P_PFAS,3072,True,2011-2020P,
+perfluorononanoic-acid-pfas,LBXPFNA,2021-2023,PFAS_L,2551,True,2021-2023,
+perfluorononanoic-acid-pfas,LBXPFNA,2013-2014,PFAS_H,2168,False,,default rule uses only the most recent pre-pandemic cycle
+perfluorononanoic-acid-pfas,LBXPFNA,2015-2016,PFAS_I,1993,False,,default rule uses only the most recent pre-pandemic cycle
+perfluorononanoic-acid-pfas,LBXPFNA,2017-2018,PFAS_J,1929,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+perfluoroundecanoic-acid-pfas,LBXPFUA,2017-2020P,P_PFAS,3072,True,2011-2020P,
+perfluoroundecanoic-acid-pfas,LBXPFUA,2021-2023,PFAS_L,2551,True,2021-2023,
+perfluoroundecanoic-acid-pfas,LBXPFUA,2013-2014,PFAS_H,2168,False,,default rule uses only the most recent pre-pandemic cycle
+perfluoroundecanoic-acid-pfas,LBXPFUA,2015-2016,PFAS_I,1993,False,,default rule uses only the most recent pre-pandemic cycle
+perfluoroundecanoic-acid-pfas,LBXPFUA,2017-2018,PFAS_J,1929,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+progesterone,LBXPG4,2017-2020P,P_TST,9482,True,2011-2020P,
+progesterone,LBXPG4,2021-2023,TST_L,7136,True,2021-2023,
+homo-gamma-linolenic-acid-c20-3n-6,LBXPGH,2021-2023,FAR_L,7215,True,2021-2023,
+docosahexaenoic-acid-c22-6n-3,LBXPHA,2021-2023,FAR_L,7215,True,2021-2023,
+palmitoleic-acid-16-1n-7-fas,LBXPL1,2011-2012,FAS_G,4348,False,,default rule uses only the most recent pre-pandemic cycle
+palmitoleic-acid-16-1n-7-fas,LBXPL1,2013-2014,FAS_H,4340,True,2011-2020P,
+gamma-linolenic-acid-c18-3n-6,LBXPLG,2021-2023,FAR_L,7176,True,2021-2023,
+platelet-count,LBXPLTSI,2017-2020P,P_CBC,12156,True,2011-2020P,
+platelet-count,LBXPLTSI,2013-2014,CBC_H,8544,True,2011-2020P,
+platelet-count,LBXPLTSI,2015-2016,CBC_I,8117,True,2011-2020P,
+platelet-count,LBXPLTSI,2011-2012,CBC_G,7952,False,,method change or rule; see analytes.csv method_note
+platelet-count,LBXPLTSI,2021-2023,CBC_L,7593,True,2021-2023,
+platelet-count,LBXPLTSI,2017-2018,CBC_J,7528,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+palmitic-acid-16-0,LBXPM1,2011-2012,FAS_G,4415,False,,default rule uses only the most recent pre-pandemic cycle
+palmitic-acid-16-0,LBXPM1,2013-2014,FAS_H,4362,True,2011-2020P,
+myristic-acid-c14-0,LBXPMR,2021-2023,FAR_L,7153,True,2021-2023,
+linoleic-acid-c18-2n-6,LBXPNL,2021-2023,FAR_L,7173,True,2021-2023,
+15-tetracosenoic-acid-c24-1n9,LBXPNR,2021-2023,FAR_L,7166,True,2021-2023,
+oleic-acid-c18-1n-9,LBXPOL,2021-2023,FAR_L,7125,True,2021-2023,
+eicosapentaenoic-acid-c20-5n-3,LBXPPE,2021-2023,FAR_L,7213,True,2021-2023,
+palmitoleic-acid-16-1n-7-far,LBXPPL,2021-2023,FAR_L,7084,True,2021-2023,
+palmitic-acid-c16-0,LBXPPM,2021-2023,FAR_L,7215,True,2021-2023,
+arachidonic-acid-c20-4n-6,LBXPRA,2021-2023,FAR_L,7213,True,2021-2023,
+stearic-acid-c18-0,LBXPST,2021-2023,FAR_L,7165,True,2021-2023,
+docosatetraenoic-acid-c22-4n-6,LBXPTA,2021-2023,FAR_L,7213,True,2021-2023,
+rbc,LBXRBCSI,2017-2020P,P_CBC,12156,True,2011-2020P,
+rbc,LBXRBCSI,2013-2014,CBC_H,8544,True,2011-2020P,
+rbc,LBXRBCSI,2015-2016,CBC_I,8117,True,2011-2020P,
+rbc,LBXRBCSI,2011-2012,CBC_G,7953,False,,method change or rule; see analytes.csv method_note
+rbc,LBXRBCSI,2021-2023,CBC_L,7593,True,2021-2023,
+rbc,LBXRBCSI,2017-2018,CBC_J,7528,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+rdw-cv,LBXRDW,2017-2020P,P_CBC,12156,True,2011-2020P,
+rdw-cv,LBXRDW,2013-2014,CBC_H,8544,True,2011-2020P,
+rdw-cv,LBXRDW,2015-2016,CBC_I,8117,True,2011-2020P,
+rdw-cv,LBXRDW,2011-2012,CBC_G,7953,False,,method change or rule; see analytes.csv method_note
+rdw-cv,LBXRDW,2021-2023,CBC_L,7593,True,2021-2023,
+rdw-cv,LBXRDW,2017-2018,CBC_J,7528,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+5-methyl-tetrahydrofolate-rbc,LBXRF1SI,2021-2023,FFMR_L,7190,True,2021-2023,
+folic-acid-rbc,LBXRF2SI,2021-2023,FFMR_L,7190,True,2021-2023,
+5-formyl-tetrahydrofolate-rbc,LBXRF3SI,2021-2023,FFMR_L,7190,True,2021-2023,
+tetrahydrofolate-rbc,LBXRF4SI,2021-2023,FFMR_L,7190,True,2021-2023,
+5-10-methenyl-tetrahydrofolate-ffmr,LBXRF5SI,2021-2023,FFMR_L,7190,True,2021-2023,
+mefox-oxidation-product-rbc,LBXRF6SI,2021-2023,FFMR_L,7190,True,2021-2023,
+retinyl-palmitate,LBXRPL,2017-2018,VITAEC_J,6281,True,2011-2020P,
+retinyl-stearate,LBXRST,2017-2018,VITAEC_J,6123,True,2011-2020P,
+albumin-serum,LBXSAL,2017-2020P,P_BIOPRO,9477,True,2011-2020P,
+albumin-serum,LBXSAL,2013-2014,BIOPRO_H,6553,True,2011-2020P,
+albumin-serum,LBXSAL,2021-2023,BIOPRO_L,6366,True,2021-2023,
+albumin-serum,LBXSAL,2015-2016,BIOPRO_I,6256,True,2011-2020P,
+albumin-serum,LBXSAL,2011-2012,BIOPRO_G,5976,True,2011-2020P,
+albumin-serum,LBXSAL,2017-2018,BIOPRO_J,5905,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+alp,LBXSAPSI,2017-2020P,P_BIOPRO,9474,True,2011-2020P,
+alp,LBXSAPSI,2013-2014,BIOPRO_H,6552,True,2011-2020P,
+alp,LBXSAPSI,2021-2023,BIOPRO_L,6327,True,2021-2023,
+alp,LBXSAPSI,2015-2016,BIOPRO_I,6255,True,2011-2020P,
+alp,LBXSAPSI,2011-2012,BIOPRO_G,5974,True,2011-2020P,
+alp,LBXSAPSI,2017-2018,BIOPRO_J,5903,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+ast,LBXSASSI,2017-2020P,P_BIOPRO,9435,True,2011-2020P,
+ast,LBXSASSI,2013-2014,BIOPRO_H,6551,True,2011-2020P,
+ast,LBXSASSI,2021-2023,BIOPRO_L,6308,True,2021-2023,
+ast,LBXSASSI,2015-2016,BIOPRO_I,6256,True,2011-2020P,
+ast,LBXSASSI,2011-2012,BIOPRO_G,5969,True,2011-2020P,
+ast,LBXSASSI,2017-2018,BIOPRO_J,5882,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+alt,LBXSATSI,2017-2020P,P_BIOPRO,9473,True,2011-2020P,
+alt,LBXSATSI,2013-2014,BIOPRO_H,6551,True,2011-2020P,
+alt,LBXSATSI,2021-2023,BIOPRO_L,6321,True,2021-2023,
+alt,LBXSATSI,2015-2016,BIOPRO_I,6256,True,2011-2020P,
+alt,LBXSATSI,2011-2012,BIOPRO_G,5972,True,2011-2020P,
+alt,LBXSATSI,2017-2018,BIOPRO_J,5902,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-urea-nitrogen,LBXSBU,2017-2020P,P_BIOPRO,9473,True,2011-2020P,
+blood-urea-nitrogen,LBXSBU,2013-2014,BIOPRO_H,6553,True,2011-2020P,
+blood-urea-nitrogen,LBXSBU,2021-2023,BIOPRO_L,6326,True,2021-2023,
+blood-urea-nitrogen,LBXSBU,2015-2016,BIOPRO_I,6255,True,2011-2020P,
+blood-urea-nitrogen,LBXSBU,2011-2012,BIOPRO_G,5975,True,2011-2020P,
+blood-urea-nitrogen,LBXSBU,2017-2018,BIOPRO_J,5901,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+bicarbonate,LBXSC3SI,2017-2020P,P_BIOPRO,9473,True,2011-2020P,
+bicarbonate,LBXSC3SI,2013-2014,BIOPRO_H,6553,True,2011-2020P,
+bicarbonate,LBXSC3SI,2021-2023,BIOPRO_L,6325,True,2021-2023,
+bicarbonate,LBXSC3SI,2015-2016,BIOPRO_I,6257,True,2011-2020P,
+bicarbonate,LBXSC3SI,2011-2012,BIOPRO_G,5974,True,2011-2020P,
+bicarbonate,LBXSC3SI,2017-2018,BIOPRO_J,5901,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+calcium-total,LBXSCA,2017-2020P,P_BIOPRO,9473,True,2011-2020P,
+calcium-total,LBXSCA,2013-2014,BIOPRO_H,6511,True,2011-2020P,
+calcium-total,LBXSCA,2021-2023,BIOPRO_L,6362,True,2021-2023,
+calcium-total,LBXSCA,2015-2016,BIOPRO_I,6257,True,2011-2020P,
+calcium-total,LBXSCA,2011-2012,BIOPRO_G,5974,True,2011-2020P,
+calcium-total,LBXSCA,2017-2018,BIOPRO_J,5901,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+cholesterol-biochemistry-profile,LBXSCH,2017-2020P,P_BIOPRO,9475,True,2011-2020P,
+cholesterol-biochemistry-profile,LBXSCH,2013-2014,BIOPRO_H,6551,True,2011-2020P,
+cholesterol-biochemistry-profile,LBXSCH,2021-2023,BIOPRO_L,6328,True,2021-2023,
+cholesterol-biochemistry-profile,LBXSCH,2015-2016,BIOPRO_I,6254,True,2011-2020P,
+cholesterol-biochemistry-profile,LBXSCH,2011-2012,BIOPRO_G,5974,True,2011-2020P,
+cholesterol-biochemistry-profile,LBXSCH,2017-2018,BIOPRO_J,5903,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+ck-total,LBXSCK,2017-2020P,P_BIOPRO,9469,True,2011-2020P,
+ck-total,LBXSCK,2013-2014,BIOPRO_H,6542,True,2011-2020P,
+ck-total,LBXSCK,2021-2023,BIOPRO_L,6321,True,2021-2023,
+ck-total,LBXSCK,2015-2016,BIOPRO_I,6248,True,2011-2020P,
+ck-total,LBXSCK,2011-2012,BIOPRO_G,5968,True,2011-2020P,
+ck-total,LBXSCK,2017-2018,BIOPRO_J,5899,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+chloride,LBXSCLSI,2017-2020P,P_BIOPRO,9476,True,2011-2020P,
+chloride,LBXSCLSI,2013-2014,BIOPRO_H,6553,True,2011-2020P,
+chloride,LBXSCLSI,2021-2023,BIOPRO_L,6329,True,2021-2023,
+chloride,LBXSCLSI,2015-2016,BIOPRO_I,6257,True,2011-2020P,
+chloride,LBXSCLSI,2011-2012,BIOPRO_G,5974,True,2011-2020P,
+chloride,LBXSCLSI,2017-2018,BIOPRO_J,5904,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+creatinine-serum,LBXSCR,2017-2020P,P_BIOPRO,9475,True,2011-2020P,
+creatinine-serum,LBXSCR,2013-2014,BIOPRO_H,6553,True,2011-2020P,
+creatinine-serum,LBXSCR,2021-2023,BIOPRO_L,6326,True,2021-2023,
+creatinine-serum,LBXSCR,2015-2016,BIOPRO_I,6255,True,2011-2020P,
+creatinine-serum,LBXSCR,2011-2012,BIOPRO_G,5976,True,2011-2020P,
+creatinine-serum,LBXSCR,2017-2018,BIOPRO_J,5903,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+copper,LBXSCU,2013-2014,CUSEZN_H,2520,True,2011-2020P,
+copper,LBXSCU,2015-2016,CUSEZN_I,2436,True,2011-2020P,
+copper,LBXSCU,2011-2012,CUSEZN_G,2329,True,2011-2020P,
+stearidonic-acid-c18-4n-3,LBXSD1,2013-2014,FAS_H,3970,True,2011-2020P,
+stearidonic-acid-c18-4n-3,LBXSD1,2011-2012,FAS_G,3866,False,,default rule uses only the most recent pre-pandemic cycle
+5-methyl-tetrahydrofolate,LBXSF1SI,2013-2014,FOLFMS_H,8455,False,,default rule uses only the most recent pre-pandemic cycle
+5-methyl-tetrahydrofolate,LBXSF1SI,2015-2016,FOLFMS_I,8057,False,,default rule uses only the most recent pre-pandemic cycle
+5-methyl-tetrahydrofolate,LBXSF1SI,2011-2012,FOLFMS_G,7471,False,,default rule uses only the most recent pre-pandemic cycle
+5-methyl-tetrahydrofolate,LBXSF1SI,2021-2023,FOLFMS_L,7348,True,2021-2023,
+5-methyl-tetrahydrofolate,LBXSF1SI,2017-2020P,P_FOLFMS,7334,True,2011-2020P,
+5-methyl-tetrahydrofolate,LBXSF1SI,2017-2018,FOLFMS_J,4571,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+folic-acid,LBXSF2SI,2013-2014,FOLFMS_H,8454,False,,default rule uses only the most recent pre-pandemic cycle
+folic-acid,LBXSF2SI,2015-2016,FOLFMS_I,8047,False,,default rule uses only the most recent pre-pandemic cycle
+folic-acid,LBXSF2SI,2011-2012,FOLFMS_G,7479,False,,default rule uses only the most recent pre-pandemic cycle
+folic-acid,LBXSF2SI,2021-2023,FOLFMS_L,7348,True,2021-2023,
+folic-acid,LBXSF2SI,2017-2020P,P_FOLFMS,7334,True,2011-2020P,
+folic-acid,LBXSF2SI,2017-2018,FOLFMS_J,4571,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+5-formyl-tetrahydrofolate,LBXSF3SI,2013-2014,FOLFMS_H,8454,False,,default rule uses only the most recent pre-pandemic cycle
+5-formyl-tetrahydrofolate,LBXSF3SI,2015-2016,FOLFMS_I,8057,False,,default rule uses only the most recent pre-pandemic cycle
+5-formyl-tetrahydrofolate,LBXSF3SI,2011-2012,FOLFMS_G,7483,False,,default rule uses only the most recent pre-pandemic cycle
+5-formyl-tetrahydrofolate,LBXSF3SI,2021-2023,FOLFMS_L,7348,True,2021-2023,
+5-formyl-tetrahydrofolate,LBXSF3SI,2017-2020P,P_FOLFMS,7334,True,2011-2020P,
+5-formyl-tetrahydrofolate,LBXSF3SI,2017-2018,FOLFMS_J,4571,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+tetrahydrofolate,LBXSF4SI,2013-2014,FOLFMS_H,8454,False,,default rule uses only the most recent pre-pandemic cycle
+tetrahydrofolate,LBXSF4SI,2015-2016,FOLFMS_I,8057,False,,default rule uses only the most recent pre-pandemic cycle
+tetrahydrofolate,LBXSF4SI,2011-2012,FOLFMS_G,7478,False,,default rule uses only the most recent pre-pandemic cycle
+tetrahydrofolate,LBXSF4SI,2021-2023,FOLFMS_L,7348,True,2021-2023,
+tetrahydrofolate,LBXSF4SI,2017-2020P,P_FOLFMS,7334,True,2011-2020P,
+tetrahydrofolate,LBXSF4SI,2017-2018,FOLFMS_J,4571,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+5-10-methenyl-tetrahydrofolate-folfms,LBXSF5SI,2013-2014,FOLFMS_H,8453,False,,default rule uses only the most recent pre-pandemic cycle
+5-10-methenyl-tetrahydrofolate-folfms,LBXSF5SI,2015-2016,FOLFMS_I,8057,False,,default rule uses only the most recent pre-pandemic cycle
+5-10-methenyl-tetrahydrofolate-folfms,LBXSF5SI,2011-2012,FOLFMS_G,7483,False,,default rule uses only the most recent pre-pandemic cycle
+5-10-methenyl-tetrahydrofolate-folfms,LBXSF5SI,2021-2023,FOLFMS_L,7348,True,2021-2023,
+5-10-methenyl-tetrahydrofolate-folfms,LBXSF5SI,2017-2020P,P_FOLFMS,7334,True,2011-2020P,
+5-10-methenyl-tetrahydrofolate-folfms,LBXSF5SI,2017-2018,FOLFMS_J,4571,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+mefox-oxidation-product,LBXSF6SI,2013-2014,FOLFMS_H,8455,False,,default rule uses only the most recent pre-pandemic cycle
+mefox-oxidation-product,LBXSF6SI,2015-2016,FOLFMS_I,8055,False,,default rule uses only the most recent pre-pandemic cycle
+mefox-oxidation-product,LBXSF6SI,2011-2012,FOLFMS_G,7486,False,,default rule uses only the most recent pre-pandemic cycle
+mefox-oxidation-product,LBXSF6SI,2021-2023,FOLFMS_L,7348,True,2021-2023,
+mefox-oxidation-product,LBXSF6SI,2017-2020P,P_FOLFMS,7334,True,2011-2020P,
+mefox-oxidation-product,LBXSF6SI,2017-2018,FOLFMS_J,4571,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+globulin-serum,LBXSGB,2017-2020P,P_BIOPRO,9473,True,2011-2020P,
+globulin-serum,LBXSGB,2013-2014,BIOPRO_H,6544,False,,method change or rule; see analytes.csv method_note
+globulin-serum,LBXSGB,2021-2023,BIOPRO_L,6364,True,2021-2023,
+globulin-serum,LBXSGB,2015-2016,BIOPRO_I,6252,False,,method change or rule; see analytes.csv method_note
+globulin-serum,LBXSGB,2011-2012,BIOPRO_G,5967,False,,method change or rule; see analytes.csv method_note
+globulin-serum,LBXSGB,2017-2018,BIOPRO_J,5901,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+glucose-serum-nonfasting,LBXSGL,2017-2020P,P_BIOPRO,9473,True,2011-2020P,
+glucose-serum-nonfasting,LBXSGL,2013-2014,BIOPRO_H,6553,True,2011-2020P,
+glucose-serum-nonfasting,LBXSGL,2021-2023,BIOPRO_L,6357,True,2021-2023,
+glucose-serum-nonfasting,LBXSGL,2015-2016,BIOPRO_I,6257,True,2011-2020P,
+glucose-serum-nonfasting,LBXSGL,2011-2012,BIOPRO_G,5976,True,2011-2020P,
+glucose-serum-nonfasting,LBXSGL,2017-2018,BIOPRO_J,5901,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+ggt,LBXSGTSI,2017-2020P,P_BIOPRO,9473,True,2011-2020P,
+ggt,LBXSGTSI,2013-2014,BIOPRO_H,6552,True,2011-2020P,
+ggt,LBXSGTSI,2021-2023,BIOPRO_L,6327,True,2021-2023,
+ggt,LBXSGTSI,2015-2016,BIOPRO_I,6256,True,2011-2020P,
+ggt,LBXSGTSI,2011-2012,BIOPRO_G,5974,True,2011-2020P,
+ggt,LBXSGTSI,2017-2018,BIOPRO_J,5902,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+shbg,LBXSHBG,2017-2020P,P_TST,9183,True,2011-2020P,
+shbg,LBXSHBG,2021-2023,TST_L,7191,True,2021-2023,
+shbg,LBXSHBG,2015-2016,TST_I,6959,False,,method change or rule; see analytes.csv method_note
+shbg,LBXSHBG,2013-2014,TST_H,6578,False,,method change or rule; see analytes.csv method_note
+serum-iron,LBXSIR,2017-2020P,P_BIOPRO,9473,True,2011-2020P,
+serum-iron,LBXSIR,2013-2014,BIOPRO_H,6527,True,2011-2020P,
+serum-iron,LBXSIR,2021-2023,BIOPRO_L,6364,True,2021-2023,
+serum-iron,LBXSIR,2015-2016,BIOPRO_I,6253,True,2011-2020P,
+serum-iron,LBXSIR,2011-2012,BIOPRO_G,5969,True,2011-2020P,
+serum-iron,LBXSIR,2017-2018,BIOPRO_J,5902,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+potassium,LBXSKSI,2017-2020P,P_BIOPRO,9466,True,2011-2020P,
+potassium,LBXSKSI,2013-2014,BIOPRO_H,6552,True,2011-2020P,
+potassium,LBXSKSI,2021-2023,BIOPRO_L,6281,True,2021-2023,
+potassium,LBXSKSI,2015-2016,BIOPRO_I,6257,True,2011-2020P,
+potassium,LBXSKSI,2011-2012,BIOPRO_G,5973,True,2011-2020P,
+potassium,LBXSKSI,2017-2018,BIOPRO_J,5899,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+ldh,LBXSLDSI,2017-2020P,P_BIOPRO,9263,True,2011-2020P,
+ldh,LBXSLDSI,2013-2014,BIOPRO_H,6551,True,2011-2020P,
+ldh,LBXSLDSI,2015-2016,BIOPRO_I,6256,True,2011-2020P,
+ldh,LBXSLDSI,2011-2012,BIOPRO_G,5969,True,2011-2020P,
+ldh,LBXSLDSI,2017-2018,BIOPRO_J,5773,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+ldh,LBXSLDSI,2021-2023,BIOPRO_L,4740,True,2021-2023,
+sodium,LBXSNASI,2017-2020P,P_BIOPRO,9476,True,2011-2020P,
+sodium,LBXSNASI,2013-2014,BIOPRO_H,6553,True,2011-2020P,
+sodium,LBXSNASI,2021-2023,BIOPRO_L,6366,True,2021-2023,
+sodium,LBXSNASI,2015-2016,BIOPRO_I,6257,True,2011-2020P,
+sodium,LBXSNASI,2011-2012,BIOPRO_G,5974,True,2011-2020P,
+sodium,LBXSNASI,2017-2018,BIOPRO_J,5904,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+osmolality-serum,LBXSOSSI,2017-2020P,P_BIOPRO,9473,True,2011-2020P,
+osmolality-serum,LBXSOSSI,2013-2014,BIOPRO_H,6553,False,,method change or rule; see analytes.csv method_note
+osmolality-serum,LBXSOSSI,2021-2023,BIOPRO_L,6322,True,2021-2023,
+osmolality-serum,LBXSOSSI,2015-2016,BIOPRO_I,6254,False,,method change or rule; see analytes.csv method_note
+osmolality-serum,LBXSOSSI,2011-2012,BIOPRO_G,5974,False,,method change or rule; see analytes.csv method_note
+osmolality-serum,LBXSOSSI,2017-2018,BIOPRO_J,5901,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+phosphorus,LBXSPH,2017-2020P,P_BIOPRO,9473,True,2011-2020P,
+phosphorus,LBXSPH,2013-2014,BIOPRO_H,6552,True,2011-2020P,
+phosphorus,LBXSPH,2021-2023,BIOPRO_L,6322,True,2021-2023,
+phosphorus,LBXSPH,2015-2016,BIOPRO_I,6256,True,2011-2020P,
+phosphorus,LBXSPH,2011-2012,BIOPRO_G,5976,True,2011-2020P,
+phosphorus,LBXSPH,2017-2018,BIOPRO_J,5901,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+selenium,LBXSSE,2013-2014,CUSEZN_H,2519,True,2011-2020P,
+selenium,LBXSSE,2015-2016,CUSEZN_I,2436,True,2011-2020P,
+selenium,LBXSSE,2011-2012,CUSEZN_G,2329,True,2011-2020P,
+stearic-acid-18-0,LBXST1,2011-2012,FAS_G,4420,False,,default rule uses only the most recent pre-pandemic cycle
+stearic-acid-18-0,LBXST1,2013-2014,FAS_H,4333,True,2011-2020P,
+total-bilirubin,LBXSTB,2017-2020P,P_BIOPRO,9475,True,2011-2020P,
+total-bilirubin,LBXSTB,2013-2014,BIOPRO_H,6549,True,2011-2020P,
+total-bilirubin,LBXSTB,2021-2023,BIOPRO_L,6325,True,2021-2023,
+total-bilirubin,LBXSTB,2015-2016,BIOPRO_I,6254,True,2011-2020P,
+total-bilirubin,LBXSTB,2011-2012,BIOPRO_G,5969,True,2011-2020P,
+total-bilirubin,LBXSTB,2017-2018,BIOPRO_J,5903,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+total-protein,LBXSTP,2017-2020P,P_BIOPRO,9473,True,2011-2020P,
+total-protein,LBXSTP,2013-2014,BIOPRO_H,6544,True,2011-2020P,
+total-protein,LBXSTP,2021-2023,BIOPRO_L,6364,True,2021-2023,
+total-protein,LBXSTP,2015-2016,BIOPRO_I,6253,True,2011-2020P,
+total-protein,LBXSTP,2011-2012,BIOPRO_G,5967,True,2011-2020P,
+total-protein,LBXSTP,2017-2018,BIOPRO_J,5901,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+triglycerides-biochemistry-profile,LBXSTR,2017-2020P,P_BIOPRO,9473,True,2011-2020P,
+triglycerides-biochemistry-profile,LBXSTR,2013-2014,BIOPRO_H,6549,True,2011-2020P,
+triglycerides-biochemistry-profile,LBXSTR,2021-2023,BIOPRO_L,6359,True,2021-2023,
+triglycerides-biochemistry-profile,LBXSTR,2015-2016,BIOPRO_I,6254,True,2011-2020P,
+triglycerides-biochemistry-profile,LBXSTR,2011-2012,BIOPRO_G,5969,True,2011-2020P,
+triglycerides-biochemistry-profile,LBXSTR,2017-2018,BIOPRO_J,5901,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+uric-acid,LBXSUA,2017-2020P,P_BIOPRO,9473,True,2011-2020P,
+uric-acid,LBXSUA,2013-2014,BIOPRO_H,6551,True,2011-2020P,
+uric-acid,LBXSUA,2021-2023,BIOPRO_L,6329,True,2021-2023,
+uric-acid,LBXSUA,2015-2016,BIOPRO_I,6254,True,2011-2020P,
+uric-acid,LBXSUA,2011-2012,BIOPRO_G,5974,True,2011-2020P,
+uric-acid,LBXSUA,2017-2018,BIOPRO_J,5901,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+zinc,LBXSZN,2013-2014,CUSEZN_H,2519,True,2011-2020P,
+zinc,LBXSZN,2015-2016,CUSEZN_I,2436,True,2011-2020P,
+zinc,LBXSZN,2011-2012,CUSEZN_G,2329,True,2011-2020P,
+free-t3,LBXT3F,2011-2012,THYROD_G,1965,True,2011-2020P,
+free-t4,LBXT4F,2011-2012,THYROD_G,1970,True,2011-2020P,
+total-cholesterol,LBXTC,2017-2020P,P_TCHOL,10828,True,2011-2020P,
+total-cholesterol,LBXTC,2013-2014,TCHOL_H,7624,True,2011-2020P,
+total-cholesterol,LBXTC,2015-2016,TCHOL_I,7256,True,2011-2020P,
+total-cholesterol,LBXTC,2011-2012,TCHOL_G,6988,True,2011-2020P,
+total-cholesterol,LBXTC,2021-2023,TCHOL_L,6890,True,2021-2023,
+total-cholesterol,LBXTC,2017-2018,TCHOL_J,6738,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+soluble-transferrin-receptor,LBXTFR,2017-2018,TFR_J,6567,True,2011-2020P,
+soluble-transferrin-receptor,LBXTFR,2017-2020P,P_TFR,3622,False,,method change or rule; see analytes.csv method_note
+soluble-transferrin-receptor,LBXTFR,2015-2016,TFR_I,2638,True,2011-2020P,
+soluble-transferrin-receptor,LBXTFR,2021-2023,TFR_L,1949,True,2021-2023,
+thyroglobulin,LBXTGN,2011-2012,THYROD_G,1966,True,2011-2020P,
+mercury-total-blood,LBXTHG,2017-2020P,P_PBCD,12102,True,2011-2020P,
+mercury-total-blood,LBXTHG,2011-2012,PBCD_G,7920,True,2011-2020P,
+mercury-total-blood,LBXTHG,2021-2023,PBCD_L,7586,True,2021-2023,
+mercury-total-blood,LBXTHG,2017-2018,PBCD_J,7513,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+mercury-total-blood,LBXTHG,2013-2014,PBCD_H,5215,True,2011-2020P,
+mercury-total-blood,LBXTHG,2015-2016,PBCD_I,4988,True,2011-2020P,
+o-tolualdehyde,LBXTLAL,2013-2014,ALD_H,1561,True,2011-2020P,
+tpo-antibody,LBXTPO,2011-2012,THYROD_G,1953,True,2011-2020P,
+triglycerides,LBXTR,2017-2020P,P_TRIGLY,4650,True,2011-2020P,
+triglycerides,LBXTLG,2021-2023,TRIGLY_L,3517,True,2021-2023,
+triglycerides,LBXTR,2013-2014,TRIGLY_H,3146,True,2011-2020P,
+triglycerides,LBXTR,2011-2012,TRIGLY_G,2990,True,2011-2020P,
+triglycerides,LBXTR,2017-2018,TRIGLY_J,2834,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+triglycerides,LBXTR,2015-2016,TRIGLY_I,2723,True,2011-2020P,
+tricosanoic-acid-c23-0,LBXTSA,2011-2012,FAS_G,4266,False,,default rule uses only the most recent pre-pandemic cycle
+tricosanoic-acid-c23-0,LBXTSA,2013-2014,FAS_H,4175,True,2011-2020P,
+tsh,LBXTSH1,2011-2012,THYROD_G,1970,True,2011-2020P,
+testosterone-total,LBXTST,2013-2014,TST_H,7559,True,2011-2020P,
+testosterone-total,LBXTST,2015-2016,TST_I,7207,True,2011-2020P,
+testosterone-total,LBXTST,2021-2023,TST_L,7160,True,2021-2023,
+testosterone-total,LBXTST,2011-2012,TST_G,6826,False,,method change or rule; see analytes.csv method_note
+total-t3,LBXTT3,2011-2012,THYROD_G,1969,True,2011-2020P,
+total-t4,LBXTT4,2011-2012,THYROD_G,1964,True,2011-2020P,
+uibc,LBXUIB,2017-2020P,P_FETIB,9460,True,2011-2020P,
+uibc,LBXUIB,2017-2018,FETIB_J,5899,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-hexane,LBXV06,2017-2020P,P_VOCWB,4428,True,2011-2020P,
+blood-hexane,LBXV06,2013-2014,VOCWB_H,2927,False,,default rule uses only the most recent pre-pandemic cycle
+blood-hexane,LBXV06,2021-2023,VOCWB_L,2914,True,2021-2023,
+blood-hexane,LBXV06,2015-2016,VOCWB_I,2840,False,,default rule uses only the most recent pre-pandemic cycle
+blood-hexane,LBXV06,2017-2018,VOCWB_J,2696,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-hexane,LBXV06,2011-2012,VOCWB_G,2640,False,,default rule uses only the most recent pre-pandemic cycle
+blood-heptane,LBXV07N,2017-2020P,P_VOCWB,4578,True,2011-2020P,
+blood-heptane,LBXV07N,2013-2014,VOCWB_H,3099,False,,default rule uses only the most recent pre-pandemic cycle
+blood-heptane,LBXV07N,2015-2016,VOCWB_I,2991,False,,default rule uses only the most recent pre-pandemic cycle
+blood-heptane,LBXV07N,2021-2023,VOCWB_L,2931,True,2021-2023,
+blood-heptane,LBXV07N,2017-2018,VOCWB_J,2846,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-octane,LBXV08N,2017-2020P,P_VOCWB,4595,True,2011-2020P,
+blood-octane,LBXV08N,2013-2014,VOCWB_H,3125,False,,default rule uses only the most recent pre-pandemic cycle
+blood-octane,LBXV08N,2015-2016,VOCWB_I,3000,False,,default rule uses only the most recent pre-pandemic cycle
+blood-octane,LBXV08N,2021-2023,VOCWB_L,2959,True,2021-2023,
+blood-octane,LBXV08N,2017-2018,VOCWB_J,2863,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-1-2-dichloroethane,LBXV2A,2017-2020P,P_VOCWB,4576,True,2011-2020P,
+blood-1-2-dichloroethane,LBXV2A,2013-2014,VOCWB_H,3203,False,,default rule uses only the most recent pre-pandemic cycle
+blood-1-2-dichloroethane,LBXV2A,2015-2016,VOCWB_I,3035,False,,default rule uses only the most recent pre-pandemic cycle
+blood-1-2-dichloroethane,LBXV2A,2021-2023,VOCWB_L,2939,True,2021-2023,
+blood-1-2-dichloroethane,LBXV2A,2017-2018,VOCWB_J,2865,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-1-2-dichloroethane,LBXV2A,2011-2012,VOCWB_G,2784,False,,default rule uses only the most recent pre-pandemic cycle
+blood-1-3-dichlorobenzene,LBXV3B,2017-2020P,P_VOCWB,4598,True,2011-2020P,
+blood-1-3-dichlorobenzene,LBXV3B,2013-2014,VOCWB_H,3175,False,,default rule uses only the most recent pre-pandemic cycle
+blood-1-3-dichlorobenzene,LBXV3B,2015-2016,VOCWB_I,3041,False,,default rule uses only the most recent pre-pandemic cycle
+blood-1-3-dichlorobenzene,LBXV3B,2021-2023,VOCWB_L,2960,True,2021-2023,
+blood-1-3-dichlorobenzene,LBXV3B,2017-2018,VOCWB_J,2866,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-1-3-dichlorobenzene,LBXV3B,2011-2012,VOCWB_G,2743,False,,default rule uses only the most recent pre-pandemic cycle
+blood-tetrachloroethene,LBXV4C,2017-2020P,P_VOCWB,4456,True,2011-2020P,
+blood-tetrachloroethene,LBXV4C,2015-2016,VOCWB_I,3089,False,,default rule uses only the most recent pre-pandemic cycle
+blood-tetrachloroethene,LBXV4C,2013-2014,VOCWB_H,2970,False,,default rule uses only the most recent pre-pandemic cycle
+blood-tetrachloroethene,LBXV4C,2021-2023,VOCWB_L,2960,True,2021-2023,
+blood-tetrachloroethene,LBXV4C,2017-2018,VOCWB_J,2724,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-tetrachloroethene,LBXV4C,2011-2012,VOCWB_G,2636,False,,default rule uses only the most recent pre-pandemic cycle
+blood-a-pinene,LBXVAPN,2021-2023,VOCWB_L,2934,True,2021-2023,
+blood-bromoform,LBXVBF,2017-2020P,P_VOCWB,4562,True,2011-2020P,
+blood-bromoform,LBXVBF,2013-2014,VOCWB_H,3158,False,,default rule uses only the most recent pre-pandemic cycle
+blood-bromoform,LBXVBF,2015-2016,VOCWB_I,3046,False,,default rule uses only the most recent pre-pandemic cycle
+blood-bromoform,LBXVBF,2021-2023,VOCWB_L,2960,True,2021-2023,
+blood-bromoform,LBXVBF,2017-2018,VOCWB_J,2857,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-bromoform,LBXVBF,2011-2012,VOCMWB_G,2695,False,,default rule uses only the most recent pre-pandemic cycle
+blood-bromodichloromethane,LBXVBM,2017-2020P,P_VOCWB,4595,True,2011-2020P,
+blood-bromodichloromethane,LBXVBM,2013-2014,VOCWB_H,3160,False,,default rule uses only the most recent pre-pandemic cycle
+blood-bromodichloromethane,LBXVBM,2015-2016,VOCWB_I,3077,False,,default rule uses only the most recent pre-pandemic cycle
+blood-bromodichloromethane,LBXVBM,2021-2023,VOCWB_L,2960,True,2021-2023,
+blood-bromodichloromethane,LBXVBM,2017-2018,VOCWB_J,2864,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-bromodichloromethane,LBXVBM,2011-2012,VOCMWB_G,2700,False,,default rule uses only the most recent pre-pandemic cycle
+blood-benzene,LBXVBZ,2017-2020P,P_VOCWB,4571,True,2011-2020P,
+blood-benzene,LBXVBZ,2013-2014,VOCWB_H,3094,False,,default rule uses only the most recent pre-pandemic cycle
+blood-benzene,LBXVBZ,2015-2016,VOCWB_I,3038,False,,default rule uses only the most recent pre-pandemic cycle
+blood-benzene,LBXVBZ,2021-2023,VOCWB_L,2934,True,2021-2023,
+blood-benzene,LBXVBZ,2017-2018,VOCWB_J,2840,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-benzene,LBXVBZ,2011-2012,VOCWB_G,2671,False,,default rule uses only the most recent pre-pandemic cycle
+blood-benzonitrile,LBXVBZN,2017-2020P,P_VOCWB,4598,True,2011-2020P,
+blood-benzonitrile,LBXVBZN,2015-2016,VOCWB_I,3028,False,,default rule uses only the most recent pre-pandemic cycle
+blood-benzonitrile,LBXVBZN,2021-2023,VOCWB_L,2957,True,2021-2023,
+blood-benzonitrile,LBXVBZN,2017-2018,VOCWB_J,2866,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+cis-vaccenic-acid-18-1n-7,LBXVC1,2011-2012,FAS_G,4343,False,,default rule uses only the most recent pre-pandemic cycle
+cis-vaccenic-acid-18-1n-7,LBXVC1,2013-2014,FAS_H,4337,True,2011-2020P,
+blood-cyclohexane,LBXVC6,2017-2020P,P_VOCWB,4569,True,2011-2020P,
+blood-cyclohexane,LBXVC6,2013-2014,VOCWB_H,3004,False,,default rule uses only the most recent pre-pandemic cycle
+blood-cyclohexane,LBXVC6,2015-2016,VOCWB_I,2965,False,,default rule uses only the most recent pre-pandemic cycle
+blood-cyclohexane,LBXVC6,2021-2023,VOCWB_L,2934,True,2021-2023,
+blood-cyclohexane,LBXVC6,2017-2018,VOCWB_J,2838,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-chlorobenzene,LBXVCB,2017-2020P,P_VOCWB,4598,True,2011-2020P,
+blood-chlorobenzene,LBXVCB,2013-2014,VOCWB_H,3203,False,,default rule uses only the most recent pre-pandemic cycle
+blood-chlorobenzene,LBXVCB,2015-2016,VOCWB_I,3070,False,,default rule uses only the most recent pre-pandemic cycle
+blood-chlorobenzene,LBXVCB,2021-2023,VOCWB_L,2949,True,2021-2023,
+blood-chlorobenzene,LBXVCB,2017-2018,VOCWB_J,2866,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-chlorobenzene,LBXVCB,2011-2012,VOCWB_G,2797,False,,default rule uses only the most recent pre-pandemic cycle
+blood-chloroform,LBXVCF,2017-2020P,P_VOCWB,4589,True,2011-2020P,
+blood-chloroform,LBXVCF,2013-2014,VOCWB_H,3136,False,,default rule uses only the most recent pre-pandemic cycle
+blood-chloroform,LBXVCF,2015-2016,VOCWB_I,2989,False,,default rule uses only the most recent pre-pandemic cycle
+blood-chloroform,LBXVCF,2021-2023,VOCWB_L,2939,True,2021-2023,
+blood-chloroform,LBXVCF,2017-2018,VOCWB_J,2858,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-chloroform,LBXVCF,2011-2012,VOCMWB_G,2589,False,,default rule uses only the most recent pre-pandemic cycle
+blood-dibromochloromethane,LBXVCM,2017-2020P,P_VOCWB,4597,True,2011-2020P,
+blood-dibromochloromethane,LBXVCM,2013-2014,VOCWB_H,3195,False,,default rule uses only the most recent pre-pandemic cycle
+blood-dibromochloromethane,LBXVCM,2015-2016,VOCWB_I,3087,False,,default rule uses only the most recent pre-pandemic cycle
+blood-dibromochloromethane,LBXVCM,2021-2023,VOCWB_L,2959,True,2021-2023,
+blood-dibromochloromethane,LBXVCM,2017-2018,VOCWB_J,2865,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-dibromochloromethane,LBXVCM,2011-2012,VOCMWB_G,2639,False,,default rule uses only the most recent pre-pandemic cycle
+blood-carbon-tetrachloride,LBXVCT,2017-2020P,P_VOCWB,4574,True,2011-2020P,
+blood-carbon-tetrachloride,LBXVCT,2013-2014,VOCWB_H,3199,False,,default rule uses only the most recent pre-pandemic cycle
+blood-carbon-tetrachloride,LBXVCT,2015-2016,VOCWB_I,3067,False,,default rule uses only the most recent pre-pandemic cycle
+blood-carbon-tetrachloride,LBXVCT,2021-2023,VOCWB_L,2960,True,2021-2023,
+blood-carbon-tetrachloride,LBXVCT,2017-2018,VOCWB_J,2845,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-carbon-tetrachloride,LBXVCT,2011-2012,VOCWB_G,2720,False,,default rule uses only the most recent pre-pandemic cycle
+25-hydroxyvitamin-d2,LBXVD2MS,2013-2014,VID_H,8440,True,2011-2020P,
+25-hydroxyvitamin-d2,LBXVD2MS,2015-2016,VID_I,8039,True,2011-2020P,
+25-hydroxyvitamin-d2,LBXVD2MS,2011-2012,VID_G,7748,True,2011-2020P,
+25-hydroxyvitamin-d2,LBXVD2MS,2017-2018,VID_J,7409,True,2011-2020P,
+25-hydroxyvitamin-d2,LBXVD2MS,2021-2023,VID_L,7307,True,2021-2023,
+25-hydroxyvitamin-d3,LBXVD3MS,2013-2014,VID_H,8443,True,2011-2020P,
+25-hydroxyvitamin-d3,LBXVD3MS,2015-2016,VID_I,8040,True,2011-2020P,
+25-hydroxyvitamin-d3,LBXVD3MS,2011-2012,VID_G,7743,True,2011-2020P,
+25-hydroxyvitamin-d3,LBXVD3MS,2017-2018,VID_J,7410,True,2011-2020P,
+25-hydroxyvitamin-d3,LBXVD3MS,2021-2023,VID_L,7308,True,2021-2023,
+blood-1-4-dichlorobenzene,LBXVDB,2017-2020P,P_VOCWB,4579,True,2011-2020P,
+blood-1-4-dichlorobenzene,LBXVDB,2013-2014,VOCWB_H,3172,False,,default rule uses only the most recent pre-pandemic cycle
+blood-1-4-dichlorobenzene,LBXVDB,2015-2016,VOCWB_I,3067,False,,default rule uses only the most recent pre-pandemic cycle
+blood-1-4-dichlorobenzene,LBXVDB,2021-2023,VOCWB_L,2942,True,2021-2023,
+blood-1-4-dichlorobenzene,LBXVDB,2017-2018,VOCWB_J,2855,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-1-4-dichlorobenzene,LBXVDB,2011-2012,VOCWB_G,2709,False,,default rule uses only the most recent pre-pandemic cycle
+epi-25-hydroxyvitamin-d3,LBXVE3MS,2013-2014,VID_H,8344,True,2011-2020P,
+epi-25-hydroxyvitamin-d3,LBXVE3MS,2015-2016,VID_I,7973,True,2011-2020P,
+epi-25-hydroxyvitamin-d3,LBXVE3MS,2011-2012,VID_G,7664,True,2011-2020P,
+epi-25-hydroxyvitamin-d3,LBXVE3MS,2017-2018,VID_J,7402,True,2011-2020P,
+epi-25-hydroxyvitamin-d3,LBXVE3MS,2021-2023,VID_L,7238,True,2021-2023,
+blood-ethyl-acetate,LBXVEA,2017-2020P,P_VOCWB,4548,True,2011-2020P,
+blood-ethyl-acetate,LBXVEA,2013-2014,VOCWB_H,3140,False,,default rule uses only the most recent pre-pandemic cycle
+blood-ethyl-acetate,LBXVEA,2015-2016,VOCWB_I,2965,False,,default rule uses only the most recent pre-pandemic cycle
+blood-ethyl-acetate,LBXVEA,2017-2018,VOCWB_J,2819,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-ethyl-acetate,LBXVEA,2021-2023,VOCWB_L,2797,True,2021-2023,
+blood-ethylbenzene,LBXVEB,2017-2020P,P_VOCWB,4598,True,2011-2020P,
+blood-ethylbenzene,LBXVEB,2013-2014,VOCWB_H,3077,False,,default rule uses only the most recent pre-pandemic cycle
+blood-ethylbenzene,LBXVEB,2015-2016,VOCWB_I,3059,False,,default rule uses only the most recent pre-pandemic cycle
+blood-ethylbenzene,LBXVEB,2021-2023,VOCWB_L,2936,True,2021-2023,
+blood-ethylbenzene,LBXVEB,2017-2018,VOCWB_J,2866,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-ethylbenzene,LBXVEB,2011-2012,VOCWB_G,2657,False,,default rule uses only the most recent pre-pandemic cycle
+blood-chloroethane,LBXVEC,2017-2020P,P_VOCWB,4463,True,2011-2020P,
+blood-chloroethane,LBXVEC,2013-2014,VOCWB_H,3194,False,,default rule uses only the most recent pre-pandemic cycle
+blood-chloroethane,LBXVEC,2015-2016,VOCWB_I,3042,False,,default rule uses only the most recent pre-pandemic cycle
+blood-chloroethane,LBXVEC,2021-2023,VOCWB_L,2890,True,2021-2023,
+blood-chloroethane,LBXVEC,2017-2018,VOCWB_J,2782,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-furan,LBXVFN,2017-2020P,P_VOCWB,4572,True,2011-2020P,
+blood-furan,LBXVFN,2013-2014,VOCWB_H,3203,False,,default rule uses only the most recent pre-pandemic cycle
+blood-furan,LBXVFN,2015-2016,VOCWB_I,3089,False,,default rule uses only the most recent pre-pandemic cycle
+blood-furan,LBXVFN,2021-2023,VOCWB_L,2937,True,2021-2023,
+blood-furan,LBXVFN,2017-2018,VOCWB_J,2841,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-furan,LBXVFN,2011-2012,VOCWB_G,2616,False,,default rule uses only the most recent pre-pandemic cycle
+vitamin-a,LBXVIA,2017-2018,VITAEC_J,6812,True,2011-2020P,
+blood-isobutyronitrile,LBXVIBN,2017-2020P,P_VOCWB,4539,True,2011-2020P,
+blood-isobutyronitrile,LBXVIBN,2015-2016,VOCWB_I,3008,False,,default rule uses only the most recent pre-pandemic cycle
+blood-isobutyronitrile,LBXVIBN,2021-2023,VOCWB_L,2918,True,2021-2023,
+blood-isobutyronitrile,LBXVIBN,2017-2018,VOCWB_J,2835,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+vitamin-c,LBXVIC,2017-2018,VIC_J,6740,True,2011-2020P,
+vitamin-d-25-oh,LBXVIDMS,2013-2014,VID_H,8437,True,2011-2020P,
+vitamin-d-25-oh,LBXVIDMS,2015-2016,VID_I,8039,True,2011-2020P,
+vitamin-d-25-oh,LBXVIDMS,2011-2012,VID_G,7743,True,2011-2020P,
+vitamin-d-25-oh,LBXVIDMS,2017-2018,VID_J,7409,True,2011-2020P,
+vitamin-d-25-oh,LBXVIDMS,2021-2023,VID_L,7307,True,2021-2023,
+vitamin-e,LBXVIE,2017-2018,VITAEC_J,6665,True,2011-2020P,
+blood-isopropylbenzene,LBXVIPB,2017-2020P,P_VOCWB,4532,True,2011-2020P,
+blood-isopropylbenzene,LBXVIPB,2013-2014,VOCWB_H,3204,False,,default rule uses only the most recent pre-pandemic cycle
+blood-isopropylbenzene,LBXVIPB,2015-2016,VOCWB_I,3058,False,,default rule uses only the most recent pre-pandemic cycle
+blood-isopropylbenzene,LBXVIPB,2021-2023,VOCWB_L,2959,True,2021-2023,
+blood-isopropylbenzene,LBXVIPB,2017-2018,VOCWB_J,2800,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-isopropylbenzene,LBXVIPB,2011-2012,VOCWB_G,2762,False,,default rule uses only the most recent pre-pandemic cycle
+blood-methylene-chloride,LBXVMC,2017-2020P,P_VOCWB,4570,True,2011-2020P,
+blood-methylene-chloride,LBXVMC,2013-2014,VOCWB_H,3143,False,,default rule uses only the most recent pre-pandemic cycle
+blood-methylene-chloride,LBXVMC,2015-2016,VOCWB_I,3027,False,,default rule uses only the most recent pre-pandemic cycle
+blood-methylene-chloride,LBXVMC,2021-2023,VOCWB_L,2937,True,2021-2023,
+blood-methylene-chloride,LBXVMC,2017-2018,VOCWB_J,2865,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-methylene-chloride,LBXVMC,2011-2012,VOCWB_G,2559,False,,default rule uses only the most recent pre-pandemic cycle
+blood-methylcyclopentane,LBXVMCP,2017-2020P,P_VOCWB,4520,True,2011-2020P,
+blood-methylcyclopentane,LBXVMCP,2013-2014,VOCWB_H,3143,False,,default rule uses only the most recent pre-pandemic cycle
+blood-methylcyclopentane,LBXVMCP,2021-2023,VOCWB_L,2914,True,2021-2023,
+blood-methylcyclopentane,LBXVMCP,2015-2016,VOCWB_I,2899,False,,default rule uses only the most recent pre-pandemic cycle
+blood-methylcyclopentane,LBXVMCP,2017-2018,VOCWB_J,2796,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-mtbe,LBXVME,2017-2020P,P_VOCWB,4499,True,2011-2020P,
+blood-mtbe,LBXVME,2013-2014,VOCWB_H,3027,False,,default rule uses only the most recent pre-pandemic cycle
+blood-mtbe,LBXVME,2021-2023,VOCWB_L,2944,True,2021-2023,
+blood-mtbe,LBXVME,2015-2016,VOCWB_I,2858,False,,default rule uses only the most recent pre-pandemic cycle
+blood-mtbe,LBXVME,2017-2018,VOCWB_J,2782,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-mtbe,LBXVME,2011-2012,VOCMWB_G,2509,False,,default rule uses only the most recent pre-pandemic cycle
+blood-methyl-isobutyl-ketone,LBXVMIK,2017-2020P,P_VOCWB,4594,True,2011-2020P,
+blood-methyl-isobutyl-ketone,LBXVMIK,2021-2023,VOCWB_L,2942,True,2021-2023,
+blood-methyl-isobutyl-ketone,LBXVMIK,2017-2018,VOCWB_J,2862,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-o-xylene,LBXVOX,2017-2020P,P_VOCWB,4598,True,2011-2020P,
+blood-o-xylene,LBXVOX,2013-2014,VOCWB_H,3204,False,,default rule uses only the most recent pre-pandemic cycle
+blood-o-xylene,LBXVOX,2015-2016,VOCWB_I,3065,False,,default rule uses only the most recent pre-pandemic cycle
+blood-o-xylene,LBXVOX,2021-2023,VOCWB_L,2960,True,2021-2023,
+blood-o-xylene,LBXVOX,2017-2018,VOCWB_J,2866,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-o-xylene,LBXVOX,2011-2012,VOCWB_G,2718,False,,default rule uses only the most recent pre-pandemic cycle
+blood-styrene,LBXVST,2021-2023,VOCWB_L,2933,True,2021-2023,
+blood-trichloroethene,LBXVTC,2017-2020P,P_VOCWB,4571,True,2011-2020P,
+blood-trichloroethene,LBXVTC,2013-2014,VOCWB_H,3103,False,,default rule uses only the most recent pre-pandemic cycle
+blood-trichloroethene,LBXVTC,2015-2016,VOCWB_I,3089,False,,default rule uses only the most recent pre-pandemic cycle
+blood-trichloroethene,LBXVTC,2021-2023,VOCWB_L,2960,True,2021-2023,
+blood-trichloroethene,LBXVTC,2017-2018,VOCWB_J,2866,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-trichloroethene,LBXVTC,2011-2012,VOCWB_G,2694,False,,default rule uses only the most recent pre-pandemic cycle
+blood-1-1-1-trichloroethane,LBXVTE,2017-2020P,P_VOCWB,4531,True,2011-2020P,
+blood-1-1-1-trichloroethane,LBXVTE,2013-2014,VOCWB_H,3204,False,,default rule uses only the most recent pre-pandemic cycle
+blood-1-1-1-trichloroethane,LBXVTE,2015-2016,VOCWB_I,3079,False,,default rule uses only the most recent pre-pandemic cycle
+blood-1-1-1-trichloroethane,LBXVTE,2021-2023,VOCWB_L,2958,True,2021-2023,
+blood-1-1-1-trichloroethane,LBXVTE,2017-2018,VOCWB_J,2799,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-1-1-1-trichloroethane,LBXVTE,2011-2012,VOCWB_G,2662,False,,default rule uses only the most recent pre-pandemic cycle
+blood-tetrahydrofuran,LBXVTHF,2017-2020P,P_VOCWB,4547,True,2011-2020P,
+blood-tetrahydrofuran,LBXVTHF,2013-2014,VOCWB_H,3077,False,,default rule uses only the most recent pre-pandemic cycle
+blood-tetrahydrofuran,LBXVTHF,2015-2016,VOCWB_I,2979,False,,default rule uses only the most recent pre-pandemic cycle
+blood-tetrahydrofuran,LBXVTHF,2021-2023,VOCWB_L,2940,True,2021-2023,
+blood-tetrahydrofuran,LBXVTHF,2017-2018,VOCWB_J,2843,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-toluene,LBXVTO,2013-2014,VOCWB_H,3103,False,,default rule uses only the most recent pre-pandemic cycle
+blood-toluene,LBXVTO,2015-2016,VOCWB_I,3078,True,2011-2020P,
+blood-toluene,LBXVTO,2021-2023,VOCWB_L,2924,True,2021-2023,
+blood-m-p-xylene,LBXVXY,2017-2020P,P_VOCWB,4582,True,2011-2020P,
+blood-m-p-xylene,LBXVXY,2013-2014,VOCWB_H,3174,False,,default rule uses only the most recent pre-pandemic cycle
+blood-m-p-xylene,LBXVXY,2015-2016,VOCWB_I,3085,False,,default rule uses only the most recent pre-pandemic cycle
+blood-m-p-xylene,LBXVXY,2021-2023,VOCWB_L,2956,True,2021-2023,
+blood-m-p-xylene,LBXVXY,2017-2018,VOCWB_J,2856,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+blood-m-p-xylene,LBXVXY,2011-2012,VOCWB_G,2579,False,,default rule uses only the most recent pre-pandemic cycle
+wbc,LBXWBCSI,2017-2020P,P_CBC,12156,True,2011-2020P,
+wbc,LBXWBCSI,2013-2014,CBC_H,8544,True,2011-2020P,
+wbc,LBXWBCSI,2015-2016,CBC_I,8117,True,2011-2020P,
+wbc,LBXWBCSI,2011-2012,CBC_G,7953,False,,method change or rule; see analytes.csv method_note
+wbc,LBXWBCSI,2021-2023,CBC_L,7593,True,2021-2023,
+wbc,LBXWBCSI,2017-2018,CBC_J,7528,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+acetamiprid,SSACET,2015-2016,SSNEON_I,2427,True,2011-2020P,
+alpha-1-acid-glycoprotein-ssagp,SSAGP,2017-2020P,P_SSAGP,2717,True,2011-2020P,
+alpha-1-acid-glycoprotein-ssagp,SSAGP,2015-2016,SSAGP_I,2166,False,,default rule uses only the most recent pre-pandemic cycle
+alpha-1-acid-glycoprotein-ssagp,SSAGP,2017-2018,SSAGP_J,1848,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-desmethylacetamiprid,SSAND,2015-2016,SSNEON_I,2418,False,,default rule uses only the most recent pre-pandemic cycle
+n-desmethylacetamiprid,SSAND,2017-2018,SSNEON_J,2315,True,2011-2020P,
+bis-2-chloroethyl-phosphate,SSBCEP,2015-2016,SSFR_I,2430,True,2011-2020P,
+bis-2-chloroethyl-phosphate,SSBCEP,2013-2014,SSFLRT_H,2303,False,,default rule uses only the most recent pre-pandemic cycle
+bis-2-chloroethyl-phosphate,SSBCEP,2011-2012,SSFR_G,2036,False,,default rule uses only the most recent pre-pandemic cycle
+bis-1-chloro-2-propyl-phosphate,SSBCPP,2015-2016,SSFR_I,2430,True,2011-2020P,
+bis-1-chloro-2-propyl-phosphate,SSBCPP,2013-2014,SSFLRT_H,2316,False,,default rule uses only the most recent pre-pandemic cycle
+bis-1-chloro-2-propyl-phosphate,SSBCPP,2011-2012,SSFR_G,2038,False,,default rule uses only the most recent pre-pandemic cycle
+bis-1-3-dichloro-2-propyl-phos,SSBDCPP,2015-2016,SSFR_I,2430,True,2011-2020P,
+bis-1-3-dichloro-2-propyl-phos,SSBDCPP,2013-2014,SSFLRT_H,2299,False,,default rule uses only the most recent pre-pandemic cycle
+bis-1-3-dichloro-2-propyl-phos,SSBDCPP,2011-2012,SSFR_G,2045,False,,default rule uses only the most recent pre-pandemic cycle
+br-iso-of-perfluorooctanoate,SSBPFOA,2013-2014,SSPFAS_H,1954,True,2011-2020P,
+4-tert-butyl-phenyl-phenyl-phosphate,SSBPPP,2017-2020P,P_SSFR,3923,True,2011-2020P,
+4-tert-butyl-phenyl-phenyl-phosphate,SSBPPP,2015-2016,SSFR_I,2427,False,,default rule uses only the most recent pre-pandemic cycle
+4-tert-butyl-phenyl-phenyl-phosphate,SSBPPP,2017-2018,SSFR_J,2331,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+3-chlorotyrosine-cl-tyr,SSCL1Y,2015-2016,SSCLTY_I,1780,True,2011-2020P,
+clothianidin,SSCLOT,2015-2016,SSNEON_I,2423,True,2011-2020P,
+dibutyl-phosphate,SSDBUP,2015-2016,SSFR_I,2430,True,2011-2020P,
+dibutyl-phosphate,SSDBUP,2013-2014,SSFLRT_H,2314,False,,default rule uses only the most recent pre-pandemic cycle
+dibutyl-phosphate,SSDBUP,2011-2012,SSFR_G,2031,False,,default rule uses only the most recent pre-pandemic cycle
+di-cresyl-phosphates,SSDCP,2015-2016,SSFR_I,2430,True,2011-2020P,
+di-cresyl-phosphates,SSDCP,2011-2012,SSFR_G,2049,False,,default rule uses only the most recent pre-pandemic cycle
+di-p-cresyl-phosphate,SSDPCP,2013-2014,SSFLRT_H,2316,True,2011-2020P,
+diphenyl-phosphate,SSDPHP,2015-2016,SSFR_I,2430,True,2011-2020P,
+diphenyl-phosphate,SSDPHP,2013-2014,SSFLRT_H,2312,False,,default rule uses only the most recent pre-pandemic cycle
+diphenyl-phosphate,SSDPHP,2011-2012,SSFR_G,2051,False,,default rule uses only the most recent pre-pandemic cycle
+mono2ethyl5carboxypentyl-terephth,SSECPT,2015-2016,SSMHHT_I,2393,True,2011-2020P,
+3-ethylcarbamoyl-benzoic-acid,SSEMEA,2015-2016,SSDEET_I,2386,True,2011-2020P,
+2-n-ethyl-perfluor-sulfon-acid,SSEPAH,2013-2014,SSPFAC_H,525,True,2011-2020P,
+flupyradifurone,SSFLUP,2017-2018,SSNEON_J,2323,True,2011-2020P,
+glyphosate,SSGLYP,2015-2016,SSGLYP_I,2428,False,,default rule uses only the most recent pre-pandemic cycle
+glyphosate,SSGLYP,2017-2018,SSGLYP_J,2329,True,2011-2020P,
+5-hydrxymthl-2-furancrbxylc-acid,SSHMFA,2017-2018,SSUVOC_J,2226,True,2011-2020P,
+5-hydroxymethyl-2-furoylglycine,SSHMFG,2017-2018,SSUVOC_J,2226,True,2011-2020P,
+holotranscobalamin,SSHOLO,2011-2012,SSHOLO_G,4407,True,2011-2020P,
+imidacloprid,SSIMID,2015-2016,SSNEON_I,2405,True,2011-2020P,
+2-isopropyl-phenyl-phenyl-phosphate,SSIPPP,2017-2020P,P_SSFR,3913,True,2011-2020P,
+2-isopropyl-phenyl-phenyl-phosphate,SSIPPP,2015-2016,SSFR_I,2416,False,,default rule uses only the most recent pre-pandemic cycle
+2-isopropyl-phenyl-phenyl-phosphate,SSIPPP,2017-2018,SSFR_J,2321,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+mono2ethyl5hydroxyhexyl-terephth,SSMHHT,2015-2016,SSMHHT_I,2393,True,2011-2020P,
+n-acetyl-s-methyl-l-cysteine,SSMMAC,2017-2020P,P_SSUVCM,3678,True,2011-2020P,
+n-acetyl-s-methyl-l-cysteine,SSMMAC,2017-2018,SSUVCM_J,2224,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+monooxoisononyl-phthalate,SSMONP,2015-2016,SSMHHT_I,2393,True,2011-2020P,
+2-n-methyl-perfluor-sulfon-acid,SSMPAH,2013-2014,SSPFAC_H,525,True,2011-2020P,
+monomethyl-branched-iso-of-pfos,SSMPFOS,2013-2014,SSPFAS_H,1954,True,2011-2020P,
+n-2-furoylglycine,SSN2FG,2017-2018,SSUVOC_J,2226,True,2011-2020P,
+linear-perfluorooctanoate,SSNPFOA,2013-2014,SSPFAS_H,1954,True,2011-2020P,
+linear-perfluorooctane-sulfonate,SSNPFOS,2013-2014,SSPFAS_H,1954,True,2011-2020P,
+5-hydroxyimidacloprid,SSOHIM,2015-2016,SSNEON_I,2312,False,,default rule uses only the most recent pre-pandemic cycle
+5-hydroxyimidacloprid,SSOHIM,2017-2018,SSNEON_J,2253,True,2011-2020P,
+perflurobutanoic-acid,SSPFBA,2013-2014,SSPFSU_H,2328,True,2011-2020P,
+pefluorodecanoic-acid,SSPFDE,2013-2014,SSPFSU_H,2328,True,2011-2020P,
+perfluorohexanoic-acid,SSPFHA,2013-2014,SSPFSU_H,2328,True,2011-2020P,
+perfluoroheptanoic-acid,SSPFHP,2013-2014,SSPFSU_H,2328,True,2011-2020P,
+perfluorohexane-sulfonic-acid-sspfsu,SSPFHS,2013-2014,SSPFSU_H,2328,True,2011-2020P,
+perfluorononanoic-acid-sspfsu,SSPFNA,2013-2014,SSPFSU_H,2328,True,2011-2020P,
+perfluorooctane-sulfonamide,SSPFSA,2013-2014,SSPFAC_H,525,True,2011-2020P,
+perfluoroundecanoic-acid-sspfsu,SSPFUA,2013-2014,SSPFSU_H,2328,True,2011-2020P,
+ppma,SSPPMA,2017-2020P,P_SSUVCM,3680,True,2011-2020P,
+ppma,SSPPMA,2017-2018,SSUVCM_J,2225,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+a-pinene,SSSAPN,2013-2014,SSTERP_H,2178,True,2011-2020P,
+pinene,SSSBPN,2013-2014,SSTERP_H,2211,True,2011-2020P,
+sulfoxaflor-1,SSSLF1,2017-2018,SSNEON_J,2327,True,2011-2020P,
+sulfoxaflor-2,SSSLF2,2017-2018,SSNEON_J,2313,True,2011-2020P,
+limonene,SSSLIM,2013-2014,SSTERP_H,2187,True,2011-2020P,
+serum-neurofilament-light-chain,SSSNFL,2013-2014,SSSNFL_H,2071,True,2011-2020P,
+2-3-4-5-tetrabromobenzoic-acid,SSTBBA,2015-2016,SSFR_I,2430,True,2011-2020P,
+2-3-4-5-tetrabromobenzoic-acid,SSTBBA,2013-2014,SSFLRT_H,2316,False,,default rule uses only the most recent pre-pandemic cycle
+2-3-4-5-tetrabromobenzoic-acid,SSTBBA,2011-2012,SSFR_G,2053,False,,default rule uses only the most recent pre-pandemic cycle
+toxoplasmosis-igg-avidity,SSTOXAV,2011-2012,SSTOXO_G,38,True,2011-2020P,
+toxoplasmosis-igg-antibodies,SSTOXG,2011-2012,SSTOXO_G,6097,True,2011-2020P,
+mono-2-hydroxy-iso-butyl-phthlte,SSURHIBP,2013-2014,SSPHTE_H,2327,True,2011-2020P,
+mono-3-hydroxy-n-butyl-phthalate-ssphte,SSURMHBP,2013-2014,SSPHTE_H,2327,True,2011-2020P,
+urine-acr,URDACT,2017-2020P,P_ALB_CR,12509,True,2011-2020P,
+urine-acr,URDACT,2015-2016,ALB_CR_I,8280,True,2011-2020P,
+urine-acr,URDACT,2021-2023,ALB_CR_L,8153,True,2021-2023,
+urine-acr,URDACT,2013-2014,ALB_CR_H,8052,True,2011-2020P,
+urine-acr,URDACT,2011-2012,ALB_CR_G,7636,True,2011-2020P,
+urine-acr,URDACT,2017-2018,ALB_CR_J,7632,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+tne-2,URDTNE2,2015-2016,UCOT_I,2971,False,,default rule uses only the most recent pre-pandemic cycle
+tne-2,URDTNE2,2017-2018,UCOT_J,2685,True,2011-2020P,
+tne-2,URDTNE2,2013-2014,UCOT_H,2572,False,,default rule uses only the most recent pre-pandemic cycle
+tne-3,URDTNE3,2013-2014,UCOT_H,615,False,,default rule uses only the most recent pre-pandemic cycle
+tne-3,URDTNE3,2015-2016,UCOT_I,553,False,,default rule uses only the most recent pre-pandemic cycle
+tne-3,URDTNE3,2017-2018,UCOT_J,548,True,2011-2020P,
+tne-6,URDTNE6,2013-2014,UCOT_H,614,False,,default rule uses only the most recent pre-pandemic cycle
+tne-6,URDTNE6,2015-2016,UCOT_I,553,False,,default rule uses only the most recent pre-pandemic cycle
+tne-6,URDTNE6,2017-2018,UCOT_J,548,True,2011-2020P,
+tne-7,URDTNE7,2015-2016,UCOT_I,553,False,,default rule uses only the most recent pre-pandemic cycle
+tne-7,URDTNE7,2017-2018,UCOT_J,548,True,2011-2020P,
+2-5-dichlorophenol,URX14D,2017-2018,EPHPP_J,2759,True,2011-2020P,
+2-5-dichlorophenol,URX14D,2013-2014,EPHPP_H,2686,False,,default rule uses only the most recent pre-pandemic cycle
+2-5-dichlorophenol,URX14D,2015-2016,EPHPP_I,2651,False,,default rule uses only the most recent pre-pandemic cycle
+1-aminonaphthalene-urine,URX1NP,2013-2014,AA_H,2478,True,2011-2020P,
+2-4-d,URX24D,2015-2016,UPHOPM_I,3034,False,,default rule uses only the most recent pre-pandemic cycle
+2-4-d,URX24D,2017-2018,UPHOPM_J,2816,True,2011-2020P,
+2-4-d,URX24D,2013-2014,UPHOPM_H,2671,False,,default rule uses only the most recent pre-pandemic cycle
+2-4-d,URX24D,2011-2012,UPHOPM_G,2365,False,,default rule uses only the most recent pre-pandemic cycle
+2-methylhippuric-acid,URX2MH,2017-2020P,P_UVOC,4325,True,2011-2020P,
+2-methylhippuric-acid,URX2MH,2015-2016,UVOC_I,3015,False,,default rule uses only the most recent pre-pandemic cycle
+2-methylhippuric-acid,URX2MH,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+2-methylhippuric-acid,URX2MH,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+2-methylhippuric-acid,URX2MH,2013-2014,UVOC_H,2370,False,,default rule uses only the most recent pre-pandemic cycle
+2-aminonaphthalene-urine,URX2NP,2013-2014,AA_H,2488,True,2011-2020P,
+3-methipurc-acd-4-methipurc-acd,URX34M,2017-2020P,P_UVOC,4325,True,2011-2020P,
+3-methipurc-acd-4-methipurc-acd,URX34M,2015-2016,UVOC_I,3014,False,,default rule uses only the most recent pre-pandemic cycle
+3-methipurc-acd-4-methipurc-acd,URX34M,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+3-methipurc-acd-4-methipurc-acd,URX34M,2013-2014,UVOC_H,2628,False,,default rule uses only the most recent pre-pandemic cycle
+3-methipurc-acd-4-methipurc-acd,URX34M,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+4-aminobiphenyl-urine,URX4BP,2013-2014,AA_H,2492,True,2011-2020P,
+4-fluoro-3-phenoxy-benzoic-acid,URX4FP,2015-2016,UPHOPM_I,3036,False,,default rule uses only the most recent pre-pandemic cycle
+4-fluoro-3-phenoxy-benzoic-acid,URX4FP,2017-2018,UPHOPM_J,2817,True,2011-2020P,
+4-fluoro-3-phenoxy-benzoic-acid,URX4FP,2013-2014,UPHOPM_H,2669,False,,default rule uses only the most recent pre-pandemic cycle
+4-fluoro-3-phenoxy-benzoic-acid,URX4FP,2011-2012,UPHOPM_G,2428,False,,default rule uses only the most recent pre-pandemic cycle
+4mda,URX4MDA,2015-2016,UADM_I,2831,True,2011-2020P,
+2-4-diaminotoluene-4tda,URX4TDA,2015-2016,UADM_I,2595,True,2011-2020P,
+2-6-diaminotoluene-6tda,URX6TDA,2015-2016,UADM_I,2430,True,2011-2020P,
+a-a-c,URXAAC,2013-2014,HCAA_H,2568,True,2011-2020P,
+n-ace-s-2-carbamoylethyl-l-cys,URXAAM,2017-2020P,P_UVOC,4325,True,2011-2020P,
+n-ace-s-2-carbamoylethyl-l-cys,URXAAM,2015-2016,UVOC_I,3015,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-2-carbamoylethyl-l-cys,URXAAM,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-ace-s-2-carbamoylethyl-l-cys,URXAAM,2013-2014,UVOC_H,2511,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-2-carbamoylethyl-l-cys,URXAAM,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-n-methlcarbamoyl-l-cys,URXAMC,2017-2020P,P_UVOC,4325,True,2011-2020P,
+n-ace-s-n-methlcarbamoyl-l-cys,URXAMC,2015-2016,UVOC_I,2965,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-n-methlcarbamoyl-l-cys,URXAMC,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-ace-s-n-methlcarbamoyl-l-cys,URXAMC,2013-2014,UVOC_H,2629,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-n-methlcarbamoyl-l-cys,URXAMC,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+5-actylamino-6-amno-3-methyluracil,URXAMU,2013-2014,CAFE_H,2621,True,2011-2020P,
+5-actylamino-6-amno-3-methyluracil,URXAMU,2011-2012,CAFE_G,2397,False,,default rule uses only the most recent pre-pandemic cycle
+anabasine-urine,URXANBT,2013-2014,UCOT_H,615,False,,default rule uses only the most recent pre-pandemic cycle
+anabasine-urine,URXANBT,2015-2016,UCOT_I,553,False,,default rule uses only the most recent pre-pandemic cycle
+anabasine-urine,URXANBT,2017-2018,UCOT_J,548,True,2011-2020P,
+o-anisidine-urine,URXANS,2013-2014,AA_H,2332,True,2011-2020P,
+anatabine-urine,URXANTT,2013-2014,UCOT_H,615,False,,default rule uses only the most recent pre-pandemic cycle
+anatabine-urine,URXANTT,2015-2016,UCOT_I,553,False,,default rule uses only the most recent pre-pandemic cycle
+anatabine-urine,URXANTT,2017-2018,UCOT_J,548,True,2011-2020P,
+2-amnothiazolne-4-carbxylic-acid,URXATC,2017-2020P,P_UVOC,4325,True,2011-2020P,
+2-amnothiazolne-4-carbxylic-acid,URXATC,2015-2016,UVOC_I,3015,False,,default rule uses only the most recent pre-pandemic cycle
+2-amnothiazolne-4-carbxylic-acid,URXATC,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+2-amnothiazolne-4-carbxylic-acid,URXATC,2013-2014,UVOC_H,2523,False,,default rule uses only the most recent pre-pandemic cycle
+2-amnothiazolne-4-carbxylic-acid,URXATC,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+n-acetyl-s-benzyl-l-cysteine,URXBMA,2017-2020P,P_UVOC,4325,True,2011-2020P,
+n-acetyl-s-benzyl-l-cysteine,URXBMA,2015-2016,UVOC_I,3014,False,,default rule uses only the most recent pre-pandemic cycle
+n-acetyl-s-benzyl-l-cysteine,URXBMA,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-acetyl-s-benzyl-l-cysteine,URXBMA,2013-2014,UVOC_H,2622,False,,default rule uses only the most recent pre-pandemic cycle
+n-acetyl-s-benzyl-l-cysteine,URXBMA,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-benzophenone-3,URXBP3,2017-2018,EPHPP_J,2759,True,2011-2020P,
+urinary-benzophenone-3,URXBP3,2013-2014,EPHPP_H,2686,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-benzophenone-3,URXBP3,2015-2016,EPHPP_I,2651,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-benzophenone-3,URXBP3,2011-2012,EPH_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-bisphenol-f,URXBPF,2017-2018,EPHPP_J,2757,True,2011-2020P,
+urinary-bisphenol-f,URXBPF,2013-2014,EPHPP_H,2682,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-bisphenol-f,URXBPF,2015-2016,EPHPP_I,2651,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-bisphenol-a,URXBPH,2017-2018,EPHPP_J,2758,True,2011-2020P,
+urinary-bisphenol-a,URXBPH,2013-2014,EPHPP_H,2686,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-bisphenol-a,URXBPH,2015-2016,EPHPP_I,2651,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-bisphenol-a,URXBPH,2011-2012,EPH_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+n-acetyl-s-n-propyl-l-cysteine,URXBPM,2017-2020P,P_UVOC,4325,True,2011-2020P,
+n-acetyl-s-n-propyl-l-cysteine,URXBPM,2015-2016,UVOC_I,2952,False,,default rule uses only the most recent pre-pandemic cycle
+n-acetyl-s-n-propyl-l-cysteine,URXBPM,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-acetyl-s-n-propyl-l-cysteine,URXBPM,2013-2014,UVOC_H,2631,False,,default rule uses only the most recent pre-pandemic cycle
+n-acetyl-s-n-propyl-l-cysteine,URXBPM,2011-2012,UVOC_G,2396,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-bisphenol-s,URXBPS,2017-2018,EPHPP_J,2756,True,2011-2020P,
+urinary-bisphenol-s,URXBPS,2013-2014,EPHPP_H,2682,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-bisphenol-s,URXBPS,2015-2016,EPHPP_I,2651,False,,default rule uses only the most recent pre-pandemic cycle
+butyl-paraben,URXBUP,2017-2018,EPHPP_J,2761,True,2011-2020P,
+butyl-paraben,URXBUP,2013-2014,EPHPP_H,2686,False,,default rule uses only the most recent pre-pandemic cycle
+butyl-paraben,URXBUP,2015-2016,EPHPP_I,2651,False,,default rule uses only the most recent pre-pandemic cycle
+butyl-paraben,URXBUP,2011-2012,EPH_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+n-acetyl-s-2-carbxyethyl-l-cys,URXCEM,2017-2020P,P_UVOC,4325,True,2011-2020P,
+n-acetyl-s-2-carbxyethyl-l-cys,URXCEM,2015-2016,UVOC_I,3015,False,,default rule uses only the most recent pre-pandemic cycle
+n-acetyl-s-2-carbxyethyl-l-cys,URXCEM,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-acetyl-s-2-carbxyethyl-l-cys,URXCEM,2013-2014,UVOC_H,2609,False,,default rule uses only the most recent pre-pandemic cycle
+n-acetyl-s-2-carbxyethyl-l-cys,URXCEM,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+mono-carboxynonyl-phthalate,URXCNP,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+mono-carboxynonyl-phthalate,URXCNP,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+mono-carboxynonyl-phthalate,URXCNP,2013-2014,PHTHTE_H,2685,False,,default rule uses only the most recent pre-pandemic cycle
+mono-carboxynonyl-phthalate,URXCNP,2011-2012,PHTHTE_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+mono-carboxyoctyl-phthalate,URXCOP,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+mono-carboxyoctyl-phthalate,URXCOP,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+mono-carboxyoctyl-phthalate,URXCOP,2013-2014,PHTHTE_H,2685,False,,default rule uses only the most recent pre-pandemic cycle
+mono-carboxyoctyl-phthalate,URXCOP,2011-2012,PHTHTE_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+cotinine-urine,URXCOTT,2015-2016,UCOT_I,2971,False,,default rule uses only the most recent pre-pandemic cycle
+cotinine-urine,URXCOTT,2017-2018,UCOT_J,2685,True,2011-2020P,
+cotinine-urine,URXCOTT,2013-2014,UCOT_H,2572,False,,default rule uses only the most recent pre-pandemic cycle
+cotinine-n-oxide-urine,URXCOXT,2013-2014,UCOT_H,615,False,,default rule uses only the most recent pre-pandemic cycle
+cotinine-n-oxide-urine,URXCOXT,2015-2016,UCOT_I,553,False,,default rule uses only the most recent pre-pandemic cycle
+cotinine-n-oxide-urine,URXCOXT,2017-2018,UCOT_J,548,True,2011-2020P,
+3-5-6-trichloropyridinol,URXCPM,2015-2016,UPHOPM_I,3033,False,,default rule uses only the most recent pre-pandemic cycle
+3-5-6-trichloropyridinol,URXCPM,2017-2018,UPHOPM_J,2817,True,2011-2020P,
+3-5-6-trichloropyridinol,URXCPM,2013-2014,UPHOPM_H,2639,False,,default rule uses only the most recent pre-pandemic cycle
+cyha-cysteine,URXCYHA,2017-2020P,P_UVOC,4325,True,2011-2020P,
+cyha-cysteine,URXCYHA,2015-2016,UVOC_I,3015,False,,default rule uses only the most recent pre-pandemic cycle
+cyha-cysteine,URXCYHA,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-acetyl-s-2-cyanoethyl-l-cyst,URXCYM,2017-2020P,P_UVOC,4325,True,2011-2020P,
+n-acetyl-s-2-cyanoethyl-l-cyst,URXCYM,2015-2016,UVOC_I,3015,False,,default rule uses only the most recent pre-pandemic cycle
+n-acetyl-s-2-cyanoethyl-l-cyst,URXCYM,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-acetyl-s-2-cyanoethyl-l-cyst,URXCYM,2013-2014,UVOC_H,2576,False,,default rule uses only the most recent pre-pandemic cycle
+n-acetyl-s-2-cyanoethyl-l-cyst,URXCYM,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+2-4-dichlorophenol,URXDCB,2017-2018,EPHPP_J,2760,True,2011-2020P,
+2-4-dichlorophenol,URXDCB,2013-2014,EPHPP_H,2686,False,,default rule uses only the most recent pre-pandemic cycle
+2-4-dichlorophenol,URXDCB,2015-2016,EPHPP_I,2651,False,,default rule uses only the most recent pre-pandemic cycle
+deet-acid,URXDEA,2015-2016,DEET_I,2989,False,,default rule uses only the most recent pre-pandemic cycle
+deet-acid,URXDEA,2017-2018,DEET_J,2808,True,2011-2020P,
+deet-acid,URXDEA,2013-2014,DEET_H,2663,False,,default rule uses only the most recent pre-pandemic cycle
+deet-acid,URXDEA,2011-2012,DEET_G,2426,False,,default rule uses only the most recent pre-pandemic cycle
+deet,URXDEE,2013-2014,DEET_H,2667,True,2011-2020P,
+deet,URXDEE,2011-2012,DEET_G,2430,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-3-4-dihidxybutl-l-cys,URXDHB,2017-2020P,P_UVOC,4325,True,2011-2020P,
+n-ace-s-3-4-dihidxybutl-l-cys,URXDHB,2015-2016,UVOC_I,2691,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-3-4-dihidxybutl-l-cys,URXDHB,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-ace-s-3-4-dihidxybutl-l-cys,URXDHB,2013-2014,UVOC_H,2639,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-3-4-dihidxybutl-l-cys,URXDHB,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+desethyl-hydroxy-deet,URXDHD,2013-2014,DEET_H,2659,True,2011-2020P,
+desethyl-hydroxy-deet,URXDHD,2011-2012,DEET_G,2419,False,,default rule uses only the most recent pre-pandemic cycle
+2-6-dimethylaniline-urine,URXDMN,2013-2014,AA_H,2375,True,2011-2020P,
+n-ace-s-dimethylphenyl-l-cys,URXDPM,2015-2016,UVOC_I,3015,True,2011-2020P,
+n-ace-s-dimethylphenyl-l-cys,URXDPM,2013-2014,UVOC_H,2471,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-dimethylphenyl-l-cys,URXDPM,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+mecp-phthalate,URXECP,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+mecp-phthalate,URXECP,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+mecp-phthalate,URXECP,2013-2014,PHTHTE_H,2685,False,,default rule uses only the most recent pre-pandemic cycle
+ecpt-phthalate,URXECPT,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+ethyl-paraben,URXEPB,2017-2018,EPHPP_J,2759,True,2011-2020P,
+ethyl-paraben,URXEPB,2013-2014,EPHPP_H,2686,False,,default rule uses only the most recent pre-pandemic cycle
+ethyl-paraben,URXEPB,2015-2016,EPHPP_I,2651,False,,default rule uses only the most recent pre-pandemic cycle
+ethyl-paraben,URXEPB,2011-2012,EPH_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+n-ac-s-2-carbmo-2-hydxel-l-cys,URXGAM,2017-2020P,P_UVOC,4325,True,2011-2020P,
+n-ac-s-2-carbmo-2-hydxel-l-cys,URXGAM,2015-2016,UVOC_I,3015,False,,default rule uses only the most recent pre-pandemic cycle
+n-ac-s-2-carbmo-2-hydxel-l-cys,URXGAM,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-ac-s-2-carbmo-2-hydxel-l-cys,URXGAM,2013-2014,UVOC_H,2636,False,,default rule uses only the most recent pre-pandemic cycle
+n-ac-s-2-carbmo-2-hydxel-l-cys,URXGAM,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+glu-p-1,URXGLP1,2013-2014,HCAA_H,2572,True,2011-2020P,
+hydroxycotinine-urine,URXHCTT,2015-2016,UCOT_I,2971,False,,default rule uses only the most recent pre-pandemic cycle
+hydroxycotinine-urine,URXHCTT,2017-2018,UCOT_J,2686,True,2011-2020P,
+hydroxycotinine-urine,URXHCTT,2013-2014,UCOT_H,2572,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-2-hydroxyethyl-l-cys,URXHEM,2017-2020P,P_UVOC,4325,True,2011-2020P,
+n-ace-s-2-hydroxyethyl-l-cys,URXHEM,2015-2016,UVOC_I,3015,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-2-hydroxyethyl-l-cys,URXHEM,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-ace-s-2-hydroxyethyl-l-cys,URXHEM,2013-2014,UVOC_H,2586,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-2-hydroxyethyl-l-cys,URXHEM,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+mhibp-phthalate,URXHIBP,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+mhibp-phthalate,URXHIBP,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+harman,URXHM,2013-2014,HCAA_H,2571,True,2011-2020P,
+n-ace-s-2-hydroxypropyl-l-cys,URXHP2,2017-2020P,P_UVOC,4325,True,2011-2020P,
+n-ace-s-2-hydroxypropyl-l-cys,URXHP2,2015-2016,UVOC_I,3014,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-2-hydroxypropyl-l-cys,URXHP2,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-ace-s-2-hydroxypropyl-l-cys,URXHP2,2013-2014,UVOC_H,2597,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-2-hydroxypropyl-l-cys,URXHP2,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+4-hydroxy-4-3-pyridyl-c4h802,URXHPBT,2015-2016,UCOT_I,553,False,,default rule uses only the most recent pre-pandemic cycle
+4-hydroxy-4-3-pyridyl-c4h802,URXHPBT,2017-2018,UCOT_J,548,True,2011-2020P,
+n-ace-s-3-hydroxypropyl-l-cys,URXHPM,2017-2020P,P_UVOC,4325,True,2011-2020P,
+n-ace-s-3-hydroxypropyl-l-cys,URXHPM,2015-2016,UVOC_I,2821,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-3-hydroxypropyl-l-cys,URXHPM,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-ace-s-3-hydroxypropyl-l-cys,URXHPM,2013-2014,UVOC_H,2606,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-3-hydroxypropyl-l-cys,URXHPM,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+ipm1-cysteine,URXIPM1,2015-2016,UVOC_I,3015,True,2011-2020P,
+ipm3-cysteine,URXIPM3,2017-2020P,P_UVOC,4324,True,2011-2020P,
+ipm3-cysteine,URXIPM3,2015-2016,UVOC_I,3015,False,,default rule uses only the most recent pre-pandemic cycle
+ipm3-cysteine,URXIPM3,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+iq,URXIQ,2013-2014,HCAA_H,2572,True,2011-2020P,
+mea-a-c,URXMAAC,2013-2014,HCAA_H,2569,True,2011-2020P,
+mandelic-acid,URXMAD,2017-2020P,P_UVOC,4325,True,2011-2020P,
+mandelic-acid,URXMAD,2015-2016,UVOC_I,3008,False,,default rule uses only the most recent pre-pandemic cycle
+mandelic-acid,URXMAD,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+mandelic-acid,URXMAD,2013-2014,UVOC_H,2541,False,,default rule uses only the most recent pre-pandemic cycle
+mandelic-acid,URXMAD,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+n-a-s-1-hydrxmet-2-prpn-l-cys,URXMB1,2015-2016,UVOC_I,2987,True,2011-2020P,
+n-a-s-1-hydrxmet-2-prpn-l-cys,URXMB1,2013-2014,UVOC_H,2587,False,,default rule uses only the most recent pre-pandemic cycle
+n-a-s-1-hydrxmet-2-prpn-l-cys,URXMB1,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+n-ac-s-2-hydrxy-3-butenyl-l-cys,URXMB2,2015-2016,UVOC_I,3015,True,2011-2020P,
+n-ac-s-2-hydrxy-3-butenyl-l-cys,URXMB2,2013-2014,UVOC_H,2627,False,,default rule uses only the most recent pre-pandemic cycle
+n-ac-s-2-hydrxy-3-butenyl-l-cys,URXMB2,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+n-a-s-4-hydrxy-2-butenyl-l-cys,URXMB3,2017-2020P,P_UVOC,4325,True,2011-2020P,
+n-a-s-4-hydrxy-2-butenyl-l-cys,URXMB3,2015-2016,UVOC_I,3015,False,,default rule uses only the most recent pre-pandemic cycle
+n-a-s-4-hydrxy-2-butenyl-l-cys,URXMB3,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-a-s-4-hydrxy-2-butenyl-l-cys,URXMB3,2013-2014,UVOC_H,2520,False,,default rule uses only the most recent pre-pandemic cycle
+n-a-s-4-hydrxy-2-butenyl-l-cys,URXMB3,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+mono-n-butyl-phthalate,URXMBP,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+mono-n-butyl-phthalate,URXMBP,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+mono-n-butyl-phthalate,URXMBP,2013-2014,PHTHTE_H,2685,False,,default rule uses only the most recent pre-pandemic cycle
+mono-n-butyl-phthalate,URXMBP,2011-2012,PHTHTE_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+mono-3-carboxypropyl-phthalate,URXMC1,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+mono-3-carboxypropyl-phthalate,URXMC1,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+mono-3-carboxypropyl-phthalate,URXMC1,2013-2014,PHTHTE_H,2685,False,,default rule uses only the most recent pre-pandemic cycle
+mono-3-carboxypropyl-phthalate,URXMC1,2011-2012,PHTHTE_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+mcoch-phthalate,URXMCOH,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+mcoch-phthalate,URXMCOH,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+mono-ethyl-phthalate,URXMEP,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+mono-ethyl-phthalate,URXMEP,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+mono-ethyl-phthalate,URXMEP,2013-2014,PHTHTE_H,2685,False,,default rule uses only the most recent pre-pandemic cycle
+mono-ethyl-phthalate,URXMEP,2011-2012,PHTHTE_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+mono-3-hydroxy-n-butyl-phthalate-phthte,URXMHBP,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+mono-3-hydroxy-n-butyl-phthalate-phthte,URXMHBP,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+mehp-phthalate,URXMHH,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+mehp-phthalate,URXMHH,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+mehp-phthalate,URXMHH,2013-2014,PHTHTE_H,2685,False,,default rule uses only the most recent pre-pandemic cycle
+mehp-phthalate,URXMHH,2011-2012,PHTHTE_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+mhht-phthalate,URXMHHT,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+mhnch,URXMHNC,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+mhnch,URXMHNC,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+mhnch,URXMHNC,2013-2014,PHTHTE_H,2685,False,,default rule uses only the most recent pre-pandemic cycle
+mhnch,URXMHNC,2011-2012,PHTHTE_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+mono-2-ethyl-hexyl-phthalate,URXMHP,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+mono-2-ethyl-hexyl-phthalate,URXMHP,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+mono-2-ethyl-hexyl-phthalate,URXMHP,2013-2014,PHTHTE_H,2685,False,,default rule uses only the most recent pre-pandemic cycle
+mono-2-ethyl-hexyl-phthalate,URXMHP,2011-2012,PHTHTE_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+mono-isobutyl-phthalate,URXMIB,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+mono-isobutyl-phthalate,URXMIB,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+mono-isobutyl-phthalate,URXMIB,2013-2014,PHTHTE_H,2685,False,,default rule uses only the most recent pre-pandemic cycle
+mono-isononyl-phthalate,URXMNP,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+mono-isononyl-phthalate,URXMNP,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+mono-isononyl-phthalate,URXMNP,2013-2014,PHTHTE_H,2685,False,,default rule uses only the most recent pre-pandemic cycle
+mono-isononyl-phthalate,URXMNP,2011-2012,PHTHTE_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+meoh-phthalate,URXMOH,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+meoh-phthalate,URXMOH,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+meoh-phthalate,URXMOH,2013-2014,PHTHTE_H,2685,False,,default rule uses only the most recent pre-pandemic cycle
+mono-oxoisononyl-phthalate,URXMONP,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+methyl-paraben,URXMPB,2017-2018,EPHPP_J,2743,True,2011-2020P,
+methyl-paraben,URXMPB,2013-2014,EPHPP_H,2686,False,,default rule uses only the most recent pre-pandemic cycle
+methyl-paraben,URXMPB,2015-2016,EPHPP_I,2651,False,,default rule uses only the most recent pre-pandemic cycle
+methyl-paraben,URXMPB,2011-2012,EPH_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+1-methyluric-acid,URXMU1,2013-2014,CAFE_H,2621,True,2011-2020P,
+1-methyluric-acid,URXMU1,2011-2012,CAFE_G,2398,False,,default rule uses only the most recent pre-pandemic cycle
+3-methyluric-acid,URXMU2,2013-2014,CAFE_H,2621,True,2011-2020P,
+3-methyluric-acid,URXMU2,2011-2012,CAFE_G,2398,False,,default rule uses only the most recent pre-pandemic cycle
+7-methyluric-acid,URXMU3,2013-2014,CAFE_H,2621,True,2011-2020P,
+7-methyluric-acid,URXMU3,2011-2012,CAFE_G,2398,False,,default rule uses only the most recent pre-pandemic cycle
+1-3-dimethyluric-acid,URXMU4,2013-2014,CAFE_H,2621,True,2011-2020P,
+1-3-dimethyluric-acid,URXMU4,2011-2012,CAFE_G,2398,False,,default rule uses only the most recent pre-pandemic cycle
+1-7-dimethyluric-acid,URXMU5,2013-2014,CAFE_H,2621,True,2011-2020P,
+1-7-dimethyluric-acid,URXMU5,2011-2012,CAFE_G,2398,False,,default rule uses only the most recent pre-pandemic cycle
+3-7-dimethyluric-acid,URXMU6,2013-2014,CAFE_H,2621,True,2011-2020P,
+3-7-dimethyluric-acid,URXMU6,2011-2012,CAFE_G,2398,False,,default rule uses only the most recent pre-pandemic cycle
+1-3-7-trimethyluric-acid,URXMU7,2013-2014,CAFE_H,2621,True,2011-2020P,
+1-3-7-trimethyluric-acid,URXMU7,2011-2012,CAFE_G,2398,False,,default rule uses only the most recent pre-pandemic cycle
+trans-trans-muconic-acid,URXMUCA,2017-2020P,P_UVOC2,3896,True,2011-2020P,
+1-methylxanthine,URXMX1,2013-2014,CAFE_H,2621,True,2011-2020P,
+1-methylxanthine,URXMX1,2011-2012,CAFE_G,2398,False,,default rule uses only the most recent pre-pandemic cycle
+3-methylxanthine,URXMX2,2013-2014,CAFE_H,2621,True,2011-2020P,
+3-methylxanthine,URXMX2,2011-2012,CAFE_G,2398,False,,default rule uses only the most recent pre-pandemic cycle
+7-methylxanthine,URXMX3,2013-2014,CAFE_H,2621,True,2011-2020P,
+7-methylxanthine,URXMX3,2011-2012,CAFE_G,2398,False,,default rule uses only the most recent pre-pandemic cycle
+1-3-dimethylxanthine-theophylline,URXMX4,2013-2014,CAFE_H,2621,True,2011-2020P,
+1-3-dimethylxanthine-theophylline,URXMX4,2011-2012,CAFE_G,2398,False,,default rule uses only the most recent pre-pandemic cycle
+1-7-dimethylxanthine-paraxanthine,URXMX5,2013-2014,CAFE_H,2621,True,2011-2020P,
+1-7-dimethylxanthine-paraxanthine,URXMX5,2011-2012,CAFE_G,2398,False,,default rule uses only the most recent pre-pandemic cycle
+3-7-dimethylxanthine-theobromine,URXMX6,2013-2014,CAFE_H,2621,True,2011-2020P,
+3-7-dimethylxanthine-theobromine,URXMX6,2011-2012,CAFE_G,2398,False,,default rule uses only the most recent pre-pandemic cycle
+1-3-7-trimethylxanthine-caffeine,URXMX7,2013-2014,CAFE_H,2621,True,2011-2020P,
+1-3-7-trimethylxanthine-caffeine,URXMX7,2011-2012,CAFE_G,2398,False,,default rule uses only the most recent pre-pandemic cycle
+mono-benzyl-phthalate,URXMZP,2015-2016,PHTHTE_I,2975,False,,default rule uses only the most recent pre-pandemic cycle
+mono-benzyl-phthalate,URXMZP,2017-2018,PHTHTE_J,2762,True,2011-2020P,
+mono-benzyl-phthalate,URXMZP,2013-2014,PHTHTE_H,2685,False,,default rule uses only the most recent pre-pandemic cycle
+mono-benzyl-phthalate,URXMZP,2011-2012,PHTHTE_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+n-nitrosanabasine-urine,URXNAB,2013-2014,TSNA_H,7923,True,2011-2020P,
+urinary-total-nnal,URXNAL,2013-2014,TSNA_H,7914,True,2011-2020P,
+urinary-total-nnal,URXNAL,2011-2012,COTNAL_G,7357,False,,default rule uses only the most recent pre-pandemic cycle
+n-nitrosanatabine-urine,URXNAT,2013-2014,TSNA_H,7912,True,2011-2020P,
+n-nitrosodiethylamine-ndea,URXNDEA,2013-2014,VNA_H,2470,True,2011-2020P,
+norharman,URXNHM,2013-2014,HCAA_H,2552,True,2011-2020P,
+nicotine-urine,URXNICT,2013-2014,UCOT_H,615,False,,default rule uses only the most recent pre-pandemic cycle
+nicotine-urine,URXNICT,2015-2016,UCOT_I,553,False,,default rule uses only the most recent pre-pandemic cycle
+nicotine-urine,URXNICT,2017-2018,UCOT_J,548,True,2011-2020P,
+n-nitrosoethylmethylamine-nmea,URXNMEA,2013-2014,VNA_H,2509,True,2011-2020P,
+n-nitrosomorpholine-nmor,URXNMOR,2013-2014,VNA_H,2384,True,2011-2020P,
+nornicotine-urine,URXNNCT,2013-2014,UCOT_H,614,False,,default rule uses only the most recent pre-pandemic cycle
+nornicotine-urine,URXNNCT,2015-2016,UCOT_I,553,False,,default rule uses only the most recent pre-pandemic cycle
+nornicotine-urine,URXNNCT,2017-2018,UCOT_J,548,True,2011-2020P,
+n-nitrosonornicotine-urine,URXNNN,2013-2014,TSNA_H,7910,True,2011-2020P,
+nitrate-urine,URXNO3,2017-2020P,P_PERNT,4498,True,2011-2020P,
+nitrate-urine,URXNO3,2015-2016,PERNT_I,3015,False,,default rule uses only the most recent pre-pandemic cycle
+nitrate-urine,URXNO3,2017-2018,PERNT_J,2748,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+nitrate-urine,URXNO3,2013-2014,PERNT_H,2644,False,,default rule uses only the most recent pre-pandemic cycle
+nitrate-urine,URXNO3,2011-2012,PERNT_G,2467,False,,default rule uses only the most recent pre-pandemic cycle
+nicotine-1-oxide-urine,URXNOXT,2013-2014,UCOT_H,615,False,,default rule uses only the most recent pre-pandemic cycle
+nicotine-1-oxide-urine,URXNOXT,2015-2016,UCOT_I,553,False,,default rule uses only the most recent pre-pandemic cycle
+nicotine-1-oxide-urine,URXNOXT,2017-2018,UCOT_J,548,True,2011-2020P,
+n-nitrosopiperidine-npip,URXNPIP,2013-2014,VNA_H,2529,True,2011-2020P,
+n-nitrosopyrrolidine-npyr,URXNPYR,2013-2014,VNA_H,2583,True,2011-2020P,
+urine-osmolality,URXOAV,2011-2012,UCOSMO_G,7395,True,2011-2020P,
+dimethylphosphate,URXOP1,2017-2020P,P_OPD,4618,True,2011-2020P,
+dimethylphosphate,URXOP1,2015-2016,OPD_I,3006,False,,default rule uses only the most recent pre-pandemic cycle
+dimethylphosphate,URXOP1,2017-2018,OPD_J,2801,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+dimethylphosphate,URXOP1,2011-2012,OPD_G,2393,False,,default rule uses only the most recent pre-pandemic cycle
+diethylphosphate,URXOP2,2017-2020P,P_OPD,4607,True,2011-2020P,
+diethylphosphate,URXOP2,2015-2016,OPD_I,3023,False,,default rule uses only the most recent pre-pandemic cycle
+diethylphosphate,URXOP2,2017-2018,OPD_J,2804,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+diethylphosphate,URXOP2,2011-2012,OPD_G,2417,False,,default rule uses only the most recent pre-pandemic cycle
+dimethylthiophosphate,URXOP3,2017-2020P,P_OPD,4604,True,2011-2020P,
+dimethylthiophosphate,URXOP3,2015-2016,OPD_I,3021,False,,default rule uses only the most recent pre-pandemic cycle
+dimethylthiophosphate,URXOP3,2017-2018,OPD_J,2800,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+dimethylthiophosphate,URXOP3,2011-2012,OPD_G,2413,False,,default rule uses only the most recent pre-pandemic cycle
+diethylthiophosphate,URXOP4,2017-2020P,P_OPD,4611,True,2011-2020P,
+diethylthiophosphate,URXOP4,2015-2016,OPD_I,3016,False,,default rule uses only the most recent pre-pandemic cycle
+diethylthiophosphate,URXOP4,2017-2018,OPD_J,2796,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+diethylthiophosphate,URXOP4,2011-2012,OPD_G,2397,False,,default rule uses only the most recent pre-pandemic cycle
+dimethyldithiophosphate,URXOP5,2017-2020P,P_OPD,4621,True,2011-2020P,
+dimethyldithiophosphate,URXOP5,2015-2016,OPD_I,3006,False,,default rule uses only the most recent pre-pandemic cycle
+dimethyldithiophosphate,URXOP5,2017-2018,OPD_J,2804,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+dimethyldithiophosphate,URXOP5,2011-2012,OPD_G,2426,False,,default rule uses only the most recent pre-pandemic cycle
+diethyldithiophosphate,URXOP6,2017-2020P,P_OPD,4620,True,2011-2020P,
+diethyldithiophosphate,URXOP6,2015-2016,OPD_I,3015,False,,default rule uses only the most recent pre-pandemic cycle
+diethyldithiophosphate,URXOP6,2017-2018,OPD_J,2804,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+diethyldithiophosphate,URXOP6,2011-2012,OPD_G,2425,False,,default rule uses only the most recent pre-pandemic cycle
+3-phenoxybenzoic-acid,URXOPM,2015-2016,UPHOPM_I,3022,False,,default rule uses only the most recent pre-pandemic cycle
+3-phenoxybenzoic-acid,URXOPM,2017-2018,UPHOPM_J,2814,True,2011-2020P,
+3-phenoxybenzoic-acid,URXOPM,2013-2014,UPHOPM_H,2627,False,,default rule uses only the most recent pre-pandemic cycle
+3-phenoxybenzoic-acid,URXOPM,2011-2012,UPHOPM_G,2416,False,,default rule uses only the most recent pre-pandemic cycle
+o-toluidine-urine,URXOTD,2013-2014,AA_H,2412,True,2011-2020P,
+oxypyrimidine,URXOXY,2015-2016,UPHOPM_I,3038,False,,default rule uses only the most recent pre-pandemic cycle
+oxypyrimidine,URXOXY,2017-2018,UPHOPM_J,2817,True,2011-2020P,
+oxypyrimidine,URXOXY,2013-2014,UPHOPM_H,2648,False,,default rule uses only the most recent pre-pandemic cycle
+oxypyrimidine,URXOXY,2011-2012,UPHOPM_G,2421,False,,default rule uses only the most recent pre-pandemic cycle
+1-hydroxynaphthalene,URXP01,2015-2016,PAH_I,2926,False,,default rule uses only the most recent pre-pandemic cycle
+1-hydroxynaphthalene,URXP01,2017-2018,PAH_J,2743,True,2011-2020P,
+1-hydroxynaphthalene,URXP01,2013-2014,PAH_H,2640,False,,default rule uses only the most recent pre-pandemic cycle
+1-hydroxynaphthalene,URXP01,2011-2012,PAH_G,2492,False,,default rule uses only the most recent pre-pandemic cycle
+2-hydroxynaphthalene,URXP02,2015-2016,PAH_I,2986,True,2011-2020P,
+2-hydroxynaphthalene,URXP02,2013-2014,PAH_H,2641,False,,default rule uses only the most recent pre-pandemic cycle
+2-hydroxynaphthalene,URXP02,2011-2012,PAH_G,2492,False,,default rule uses only the most recent pre-pandemic cycle
+3-hydroxyfluorene,URXP03,2015-2016,PAH_I,3033,False,,default rule uses only the most recent pre-pandemic cycle
+3-hydroxyfluorene,URXP03,2017-2018,PAH_J,2762,True,2011-2020P,
+3-hydroxyfluorene,URXP03,2013-2014,PAH_H,2650,False,,default rule uses only the most recent pre-pandemic cycle
+3-hydroxyfluorene,URXP03,2011-2012,PAH_G,2488,False,,default rule uses only the most recent pre-pandemic cycle
+2-hydroxyfluorene,URXP04,2015-2016,PAH_I,3037,False,,default rule uses only the most recent pre-pandemic cycle
+2-hydroxyfluorene,URXP04,2017-2018,PAH_J,2774,True,2011-2020P,
+2-hydroxyfluorene,URXP04,2013-2014,PAH_H,2650,False,,default rule uses only the most recent pre-pandemic cycle
+2-hydroxyfluorene,URXP04,2011-2012,PAH_G,2492,False,,default rule uses only the most recent pre-pandemic cycle
+3-hydroxyphenanthrene,URXP05,2011-2012,PAH_G,2491,True,2011-2020P,
+1-hydroxyphenanthrene,URXP06,2015-2016,PAH_I,3038,False,,default rule uses only the most recent pre-pandemic cycle
+1-hydroxyphenanthrene,URXP06,2017-2018,PAH_J,2776,True,2011-2020P,
+1-hydroxyphenanthrene,URXP06,2013-2014,PAH_H,2650,False,,default rule uses only the most recent pre-pandemic cycle
+1-hydroxyphenanthrene,URXP06,2011-2012,PAH_G,2492,False,,default rule uses only the most recent pre-pandemic cycle
+2-hydroxyphenanthrene,URXP07,2011-2012,PAH_G,2489,True,2011-2020P,
+1-hydroxypyrene,URXP10,2015-2016,PAH_I,3036,False,,default rule uses only the most recent pre-pandemic cycle
+1-hydroxypyrene,URXP10,2017-2018,PAH_J,2775,True,2011-2020P,
+1-hydroxypyrene,URXP10,2013-2014,PAH_H,2650,False,,default rule uses only the most recent pre-pandemic cycle
+1-hydroxypyrene,URXP10,2011-2012,PAH_G,2487,False,,default rule uses only the most recent pre-pandemic cycle
+9-hydroxyfluorene,URXP17,2011-2012,PAH_G,2491,True,2011-2020P,
+4-phenanthrene,URXP19,2011-2012,PAH_G,2487,True,2011-2020P,
+2-3-hydroxyphenanthrene,URXP25,2015-2016,PAH_I,3035,False,,default rule uses only the most recent pre-pandemic cycle
+2-3-hydroxyphenanthrene,URXP25,2017-2018,PAH_J,2774,True,2011-2020P,
+2-3-hydroxyphenanthrene,URXP25,2013-2014,PAH_H,2650,False,,default rule uses only the most recent pre-pandemic cycle
+para-nitrophenol,URXPAR,2015-2016,UPHOPM_I,3039,False,,default rule uses only the most recent pre-pandemic cycle
+para-nitrophenol,URXPAR,2017-2018,UPHOPM_J,2817,True,2011-2020P,
+para-nitrophenol,URXPAR,2013-2014,UPHOPM_H,2584,False,,default rule uses only the most recent pre-pandemic cycle
+para-nitrophenol,URXPAR,2011-2012,UPHOPM_G,2350,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-phenl-2-hydxyetl-l-cys,URXPHE,2015-2016,UVOC_I,2947,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-phenl-2-hydxyetl-l-cys,URXPHE,2017-2018,UVOC_J,2655,True,2011-2020P,
+n-ace-s-phenl-2-hydxyetl-l-cys,URXPHE,2013-2014,UVOC_H,2569,False,,default rule uses only the most recent pre-pandemic cycle
+n-ace-s-phenl-2-hydxyetl-l-cys,URXPHE,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+phenylglyoxylic-acid,URXPHG,2017-2020P,P_UVOC,4325,True,2011-2020P,
+phenylglyoxylic-acid,URXPHG,2015-2016,UVOC_I,3013,False,,default rule uses only the most recent pre-pandemic cycle
+phenylglyoxylic-acid,URXPHG,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+phenylglyoxylic-acid,URXPHG,2013-2014,UVOC_H,2575,False,,default rule uses only the most recent pre-pandemic cycle
+phenylglyoxylic-acid,URXPHG,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+phlp,URXPHIP,2013-2014,HCAA_H,2569,True,2011-2020P,
+phenylmercapturic-acid,URXPHMA,2017-2020P,P_UVOC2,3896,True,2011-2020P,
+n-acetyl-s-phenyl-l-cysteine,URXPMA,2015-2016,UVOC_I,3015,True,2011-2020P,
+n-acetyl-s-phenyl-l-cysteine,URXPMA,2013-2014,UVOC_H,2561,False,,default rule uses only the most recent pre-pandemic cycle
+n-acetyl-s-phenyl-l-cysteine,URXPMA,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+n-a-s-3-hydrxprpl-1-metl-l-cys,URXPMM,2017-2020P,P_UVOC,4325,True,2011-2020P,
+n-a-s-3-hydrxprpl-1-metl-l-cys,URXPMM,2015-2016,UVOC_I,3015,False,,default rule uses only the most recent pre-pandemic cycle
+n-a-s-3-hydrxprpl-1-metl-l-cys,URXPMM,2017-2018,UVOC_J,2655,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+n-a-s-3-hydrxprpl-1-metl-l-cys,URXPMM,2013-2014,UVOC_H,2593,False,,default rule uses only the most recent pre-pandemic cycle
+n-a-s-3-hydrxprpl-1-metl-l-cys,URXPMM,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+propyl-paraben,URXPPB,2017-2018,EPHPP_J,2760,True,2011-2020P,
+propyl-paraben,URXPPB,2013-2014,EPHPP_H,2686,False,,default rule uses only the most recent pre-pandemic cycle
+propyl-paraben,URXPPB,2015-2016,EPHPP_I,2651,False,,default rule uses only the most recent pre-pandemic cycle
+propyl-paraben,URXPPB,2011-2012,EPH_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+p-phenylenediamine-ppda,URXPPDA,2015-2016,UADM_I,2608,True,2011-2020P,
+thiocyanate-urine,URXSCN,2017-2020P,P_PERNT,4499,True,2011-2020P,
+thiocyanate-urine,URXSCN,2015-2016,PERNT_I,3005,False,,default rule uses only the most recent pre-pandemic cycle
+thiocyanate-urine,URXSCN,2017-2018,PERNT_J,2749,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+thiocyanate-urine,URXSCN,2013-2014,PERNT_H,2643,False,,default rule uses only the most recent pre-pandemic cycle
+thiocyanate-urine,URXSCN,2011-2012,PERNT_G,2467,False,,default rule uses only the most recent pre-pandemic cycle
+dichlorovnl-dimeth-prop-carboacid,URXTCC,2015-2016,UPHOPM_I,3022,False,,default rule uses only the most recent pre-pandemic cycle
+dichlorovnl-dimeth-prop-carboacid,URXTCC,2017-2018,UPHOPM_J,2816,True,2011-2020P,
+dichlorovnl-dimeth-prop-carboacid,URXTCC,2013-2014,UPHOPM_H,2622,False,,default rule uses only the most recent pre-pandemic cycle
+dichlorovnl-dimeth-prop-carboacid,URXTCC,2011-2012,UPHOPM_G,2275,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-triclocarban,URXTLC,2017-2018,EPHPP_J,2761,True,2011-2020P,
+urinary-triclocarban,URXTLC,2013-2014,EPHPP_H,2686,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-triclocarban,URXTLC,2015-2016,EPHPP_I,2651,False,,default rule uses only the most recent pre-pandemic cycle
+trp-p-1,URXTRP1,2013-2014,HCAA_H,2569,True,2011-2020P,
+trp-p-2,URXTRP2,2013-2014,HCAA_H,2571,True,2011-2020P,
+urinary-triclosan,URXTRS,2017-2018,EPHPP_J,2740,True,2011-2020P,
+urinary-triclosan,URXTRS,2013-2014,EPHPP_H,2686,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-triclosan,URXTRS,2015-2016,EPHPP_I,2651,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-triclosan,URXTRS,2011-2012,EPH_G,2489,False,,default rule uses only the most recent pre-pandemic cycle
+2-thoxothazlidne-4-carbxylic-acid,URXTTC,2013-2014,UVOC_H,2640,True,2011-2020P,
+2-thoxothazlidne-4-carbxylic-acid,URXTTC,2011-2012,UVOC_G,2466,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-arsenobetaine,URXUAB,2017-2020P,P_UAS,4625,True,2011-2020P,
+urinary-arsenobetaine,URXUAB,2015-2016,UAS_I,3094,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-arsenobetaine,URXUAB,2017-2018,UAS_J,2825,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+urinary-arsenobetaine,URXUAB,2013-2014,UAS_H,2654,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-arsenobetaine,URXUAB,2011-2012,UAS_G,2517,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-arsenocholine,URXUAC,2017-2020P,P_UAS,4625,True,2011-2020P,
+urinary-arsenocholine,URXUAC,2015-2016,UAS_I,3094,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-arsenocholine,URXUAC,2017-2018,UAS_J,2825,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+urinary-arsenocholine,URXUAC,2013-2014,UAS_H,2654,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-arsenocholine,URXUAC,2011-2012,UAS_G,2517,False,,default rule uses only the most recent pre-pandemic cycle
+arsenic-total-urine,URXUAS,2017-2020P,P_UTAS,4570,True,2011-2020P,
+arsenic-total-urine,URXUAS,2015-2016,UTAS_I,3061,False,,default rule uses only the most recent pre-pandemic cycle
+arsenic-total-urine,URXUAS,2017-2018,UTAS_J,2792,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+arsenic-total-urine,URXUAS,2013-2014,UTAS_H,2662,False,,default rule uses only the most recent pre-pandemic cycle
+arsenic-total-urine,URXUAS,2011-2012,UAS_G,2504,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-arsenous-acid,URXUAS3,2017-2020P,P_UAS,4625,True,2011-2020P,
+urinary-arsenous-acid,URXUAS3,2015-2016,UAS_I,3094,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-arsenous-acid,URXUAS3,2017-2018,UAS_J,2825,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+urinary-arsenous-acid,URXUAS3,2013-2014,UAS_H,2654,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-arsenous-acid,URXUAS3,2011-2012,UAS_G,2517,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-arsenic-acid,URXUAS5,2017-2020P,P_UAS,4625,True,2011-2020P,
+urinary-arsenic-acid,URXUAS5,2015-2016,UAS_I,3094,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-arsenic-acid,URXUAS5,2017-2018,UAS_J,2825,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+urinary-arsenic-acid,URXUAS5,2013-2014,UAS_H,2654,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-arsenic-acid,URXUAS5,2011-2012,UAS_G,2517,False,,default rule uses only the most recent pre-pandemic cycle
+barium-urine,URXUBA,2017-2020P,P_UM,4595,True,2011-2020P,
+barium-urine,URXUBA,2015-2016,UM_I,3061,False,,default rule uses only the most recent pre-pandemic cycle
+barium-urine,URXUBA,2017-2018,UM_J,2808,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+barium-urine,URXUBA,2013-2014,UM_H,2664,False,,default rule uses only the most recent pre-pandemic cycle
+barium-urine,URXUBA,2011-2012,UHM_G,2504,False,,default rule uses only the most recent pre-pandemic cycle
+cadmium-urine,URXUCD,2017-2020P,P_UM,4595,True,2011-2020P,
+cadmium-urine,URXUCD,2015-2016,UM_I,3061,False,,default rule uses only the most recent pre-pandemic cycle
+cadmium-urine,URXUCD,2017-2018,UM_J,2808,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+cadmium-urine,URXUCD,2013-2014,UM_H,2664,False,,default rule uses only the most recent pre-pandemic cycle
+cadmium-urine,URXUCD,2011-2012,UHM_G,2504,False,,default rule uses only the most recent pre-pandemic cycle
+chromium-urine,URXUCM,2017-2020P,P_UCM,4569,True,2011-2020P,
+chromium-urine,URXUCM,2017-2018,UCM_J,2791,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+cobalt-urine,URXUCO,2017-2020P,P_UM,4594,True,2011-2020P,
+cobalt-urine,URXUCO,2015-2016,UM_I,3061,False,,default rule uses only the most recent pre-pandemic cycle
+cobalt-urine,URXUCO,2017-2018,UM_J,2808,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+cobalt-urine,URXUCO,2013-2014,UM_H,2664,False,,default rule uses only the most recent pre-pandemic cycle
+cobalt-urine,URXUCO,2011-2012,UHM_G,2504,False,,default rule uses only the most recent pre-pandemic cycle
+urine-creatinine,URXUCR,2017-2020P,P_ALB_CR,12509,True,2011-2020P,
+urine-creatinine,URXUCR,2015-2016,ALB_CR_I,8280,True,2011-2020P,
+urine-creatinine,URXUCR,2021-2023,ALB_CR_L,8154,True,2021-2023,
+urine-creatinine,URXUCR,2013-2014,ALB_CR_H,8052,True,2011-2020P,
+urine-creatinine,URXUCR,2011-2012,COTNAL_G,7637,True,2011-2020P,
+urine-creatinine,URXUCR,2017-2018,ALB_CR_J,7632,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+cesium-urine,URXUCS,2017-2020P,P_UM,4595,True,2011-2020P,
+cesium-urine,URXUCS,2015-2016,UM_I,3061,False,,default rule uses only the most recent pre-pandemic cycle
+cesium-urine,URXUCS,2017-2018,UM_J,2808,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+cesium-urine,URXUCS,2013-2014,UM_H,2664,False,,default rule uses only the most recent pre-pandemic cycle
+cesium-urine,URXUCS,2011-2012,UHM_G,2503,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-dimethylarsinic-acid,URXUDMA,2017-2020P,P_UAS,4625,True,2011-2020P,
+urinary-dimethylarsinic-acid,URXUDMA,2015-2016,UAS_I,3094,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-dimethylarsinic-acid,URXUDMA,2017-2018,UAS_J,2825,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+urinary-dimethylarsinic-acid,URXUDMA,2013-2014,UAS_H,2654,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-dimethylarsinic-acid,URXUDMA,2011-2012,UAS_G,2517,False,,default rule uses only the most recent pre-pandemic cycle
+fluoride-urine,URXUFL,2015-2016,UFLDE_I,2408,True,2011-2020P,
+mercury-urine,URXUHG,2017-2020P,P_UHG,4600,True,2011-2020P,
+mercury-urine,URXUHG,2015-2016,UHG_I,3080,True,2011-2020P,
+mercury-urine,URXUHG,2017-2018,UHG_J,2812,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+mercury-urine,URXUHG,2013-2014,UHG_H,2666,True,2011-2020P,
+mercury-urine,URXUHG,2011-2012,UHG_G,2507,True,2011-2020P,
+iodine-urine,URXUIO,2017-2020P,P_UIO,4600,True,2011-2020P,
+iodine-urine,URXUIO,2015-2016,UIO_I,3079,True,2011-2020P,
+iodine-urine,URXUIO,2017-2018,UIO_J,2812,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+iodine-urine,URXUIO,2013-2014,UIO_H,2666,True,2011-2020P,
+iodine-urine,URXUIO,2011-2012,UIO_G,2507,True,2011-2020P,
+urine-albumin,URXUMA,2017-2020P,P_ALB_CR,12510,True,2011-2020P,
+urine-albumin,URXUMA,2015-2016,ALB_CR_I,8280,True,2011-2020P,
+urine-albumin,URXUMA,2021-2023,ALB_CR_L,8153,True,2021-2023,
+urine-albumin,URXUMA,2013-2014,ALB_CR_H,8052,True,2011-2020P,
+urine-albumin,URXUMA,2011-2012,ALB_CR_G,7636,True,2011-2020P,
+urine-albumin,URXUMA,2017-2018,ALB_CR_J,7632,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+urinary-monomethylarsonic-acid,URXUMMA,2017-2020P,P_UAS,4625,True,2011-2020P,
+urinary-monomethylarsonic-acid,URXUMMA,2015-2016,UAS_I,3094,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-monomethylarsonic-acid,URXUMMA,2017-2018,UAS_J,2825,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+urinary-monomethylarsonic-acid,URXUMMA,2013-2014,UAS_H,2654,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-monomethylarsonic-acid,URXUMMA,2011-2012,UAS_G,2517,False,,default rule uses only the most recent pre-pandemic cycle
+manganese-urine,URXUMN,2017-2020P,P_UM,4595,True,2011-2020P,
+manganese-urine,URXUMN,2015-2016,UM_I,3061,False,,default rule uses only the most recent pre-pandemic cycle
+manganese-urine,URXUMN,2017-2018,UM_J,2808,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+manganese-urine,URXUMN,2013-2014,UM_H,2664,False,,default rule uses only the most recent pre-pandemic cycle
+manganese-urine,URXUMN,2011-2012,UHM_G,2504,False,,default rule uses only the most recent pre-pandemic cycle
+molybdenum-urine,URXUMO,2017-2020P,P_UM,4595,True,2011-2020P,
+molybdenum-urine,URXUMO,2015-2016,UM_I,3060,False,,default rule uses only the most recent pre-pandemic cycle
+molybdenum-urine,URXUMO,2017-2018,UM_J,2808,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+molybdenum-urine,URXUMO,2013-2014,UM_H,2664,False,,default rule uses only the most recent pre-pandemic cycle
+molybdenum-urine,URXUMO,2011-2012,UHM_G,2504,False,,default rule uses only the most recent pre-pandemic cycle
+nickel-urine,URXUNI,2017-2020P,P_UNI,4569,True,2011-2020P,
+nickel-urine,URXUNI,2017-2018,UNI_J,2791,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+perchlorate-urine,URXUP8,2017-2020P,P_PERNT,4499,True,2011-2020P,
+perchlorate-urine,URXUP8,2015-2016,PERNT_I,3014,False,,default rule uses only the most recent pre-pandemic cycle
+perchlorate-urine,URXUP8,2017-2018,PERNT_J,2749,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+perchlorate-urine,URXUP8,2013-2014,PERNT_H,2644,False,,default rule uses only the most recent pre-pandemic cycle
+perchlorate-urine,URXUP8,2011-2012,PERNT_G,2467,False,,default rule uses only the most recent pre-pandemic cycle
+lead-urine,URXUPB,2017-2020P,P_UM,3937,True,2011-2020P,
+lead-urine,URXUPB,2015-2016,UM_I,3061,False,,default rule uses only the most recent pre-pandemic cycle
+lead-urine,URXUPB,2013-2014,UM_H,2664,False,,default rule uses only the most recent pre-pandemic cycle
+lead-urine,URXUPB,2011-2012,UHM_G,2504,False,,default rule uses only the most recent pre-pandemic cycle
+lead-urine,URXUPB,2017-2018,UM_J,2405,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+antimony-urine,URXUSB,2017-2020P,P_UM,4595,True,2011-2020P,
+antimony-urine,URXUSB,2015-2016,UM_I,3061,False,,default rule uses only the most recent pre-pandemic cycle
+antimony-urine,URXUSB,2017-2018,UM_J,2808,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+antimony-urine,URXUSB,2013-2014,UM_H,2664,False,,default rule uses only the most recent pre-pandemic cycle
+antimony-urine,URXUSB,2011-2012,UHM_G,2504,False,,default rule uses only the most recent pre-pandemic cycle
+tin-urine,URXUSN,2017-2020P,P_UM,4595,True,2011-2020P,
+tin-urine,URXUSN,2015-2016,UM_I,3060,False,,default rule uses only the most recent pre-pandemic cycle
+tin-urine,URXUSN,2017-2018,UM_J,2808,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+tin-urine,URXUSN,2013-2014,UM_H,2664,False,,default rule uses only the most recent pre-pandemic cycle
+tin-urine,URXUSN,2011-2012,UHM_G,2504,False,,default rule uses only the most recent pre-pandemic cycle
+strontium-urine,URXUSR,2015-2016,UM_I,3061,True,2011-2020P,
+strontium-urine,URXUSR,2013-2014,UM_H,2664,False,,default rule uses only the most recent pre-pandemic cycle
+strontium-urine,URXUSR,2011-2012,UHM_G,2503,False,,default rule uses only the most recent pre-pandemic cycle
+thallium-urine,URXUTL,2017-2020P,P_UM,4595,True,2011-2020P,
+thallium-urine,URXUTL,2015-2016,UM_I,3061,False,,default rule uses only the most recent pre-pandemic cycle
+thallium-urine,URXUTL,2017-2018,UM_J,2808,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+thallium-urine,URXUTL,2013-2014,UM_H,2664,False,,default rule uses only the most recent pre-pandemic cycle
+thallium-urine,URXUTL,2011-2012,UHM_G,2504,False,,default rule uses only the most recent pre-pandemic cycle
+urinary-trimethylarsine-oxide,URXUTM,2011-2012,UAS_G,2517,True,2011-2020P,
+tungsten-urine,URXUTU,2017-2020P,P_UM,4595,True,2011-2020P,
+tungsten-urine,URXUTU,2015-2016,UM_I,3060,False,,default rule uses only the most recent pre-pandemic cycle
+tungsten-urine,URXUTU,2017-2018,UM_J,2808,False,,2017-2018 is contained in 2017-March 2020 pre-pandemic files
+tungsten-urine,URXUTU,2013-2014,UM_H,2664,False,,default rule uses only the most recent pre-pandemic cycle
+tungsten-urine,URXUTU,2011-2012,UHM_G,2491,False,,default rule uses only the most recent pre-pandemic cycle
+uranium-urine,URXUUR,2015-2016,UM_I,3061,True,2011-2020P,
+uranium-urine,URXUUR,2013-2014,UM_H,2664,False,,default rule uses only the most recent pre-pandemic cycle
+uranium-urine,URXUUR,2011-2012,UHM_G,2504,False,,default rule uses only the most recent pre-pandemic cycle

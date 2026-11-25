@@ -1,0 +1,33 @@
+{
+  "title": "NHANES Lab Percentiles: survey-weighted percentiles of US laboratory analytes by sex and age",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "publication_date": "2026-11-25",
+  "description": "Survey-weighted percentiles (1st to 99th), means and design-based 95% confidence limits for laboratory analytes from the US National Health and Nutrition Examination Survey (NHANES), by sex and age band and, for adults, by race and Hispanic origin (descriptive only). Core scope: 110 curated clinical analytes, with pre-pandemic cycles 2011-2012 to 2017-March 2020 pooled within sex and single year of age after CDC method-bridging equations; August 2021-August 2023 reported separately. A further 369 analytes (mostly environmental chemicals) are deposited from single cycles without method review. Two populations: all examined participants, and a subset without common conditions (plus a BMI sensitivity subset). Validated against 320 published CDC/NCHS numbers, including 258 pooled-cycle values from the CDC Nutrition Report. Source data: National Center for Health Statistics, CDC (public domain).",
+  "creators": [
+    {
+      "name": "LifeFrom"
+    },
+    {
+      "name": "Caraulani, Julian",
+      "affiliation": "LifeFrom"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "NHANES",
+    "laboratory",
+    "biomarkers",
+    "percentiles",
+    "complex survey",
+    "reference subset"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://lifefrom.ai/research/open-data/population-percentiles",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Code (scripts/, tests/*.py) is under the MIT licence. Source data: National Health and Nutrition Examination Survey, National Center for Health Statistics, CDC (https://www.cdc.gov/nchs/nhanes/), public domain."
+}

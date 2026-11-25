@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, and cite NHANES (NCHS) as the source data."
+title: "NHANES Lab Percentiles: survey-weighted percentiles of US laboratory analytes by sex and age"
+type: dataset
+version: 1.0.0
+date-released: 2026-11-25
+license:
+  - CC-BY-4.0
+  - MIT
+url: "https://lifefrom.ai/research/open-data/population-percentiles"
+repository-code: "https://github.com/caraulani/nhanes-lab-percentiles"
+authors:
+  - name: LifeFrom
+    website: "https://lifefrom.ai"
+  - family-names: Caraulani
+    given-names: Julian
+    affiliation: LifeFrom
+keywords:
+  - NHANES
+  - laboratory
+  - biomarkers
+  - percentiles
+  - complex survey
+references:
+  - type: data
+    title: "National Health and Nutrition Examination Survey Data"
+    authors:
+      - name: "National Center for Health Statistics"
+    publisher:
+      name: "U.S. Department of Health and Human Services, Centers for Disease Control and Prevention"
+    url: "https://www.cdc.gov/nchs/nhanes/"
